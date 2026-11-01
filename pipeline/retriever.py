@@ -4,13 +4,13 @@ Phase 7: Vector & Semantic Retrieval Module
 Encodes user queries using dense vector similarity against ChromaDB,
 with an ultra-fast in-memory fallback loader for serverless environments (Vercel)
 where ChromaDB storage or PyTorch weights may not be locally persisted.
+Zero external runtime dependencies required for retrieval.
 """
 
 import os
 import re
 import sys
 import json
-import yaml
 from pathlib import Path
 
 # Ensure project root is in sys.path
@@ -18,14 +18,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
 
-CONFIG_PATH = BASE_DIR / "config.yaml"
-
 CONFIG = {}
+CONFIG_PATH = BASE_DIR / "config.yaml"
 if CONFIG_PATH.exists():
     try:
+        import yaml
         with open(CONFIG_PATH, "r", encoding="utf-8") as f:
             CONFIG = yaml.safe_load(f) or {}
     except Exception:
+        # Fallback to defaults if yaml is not installed or unparseable
         CONFIG = {}
 
 MODEL_NAME = CONFIG.get("embedding", {}).get("model", "sentence-transformers/all-MiniLM-L6-v2")
@@ -68,7 +69,7 @@ def fallback_chunk_retrieve(
     chunk_type: str = None,
 ) -> list[dict]:
     """
-    Lightweight, deterministic BM25-style keyword search across disk chunks.
+    Lightweight, deterministic keyword search across disk chunks.
     Guarantees fast (<5ms) sub-second retrieval in serverless environments.
     """
     all_chunks = load_all_disk_chunks()
