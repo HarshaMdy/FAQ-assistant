@@ -9,11 +9,14 @@ import os
 import sys
 from abc import ABC, abstractmethod
 from pathlib import Path
-from dotenv import load_dotenv
-
 # Resolve project paths
 BASE_DIR = Path(__file__).resolve().parent.parent
-load_dotenv(BASE_DIR / ".env")
+try:
+    from dotenv import load_dotenv
+    load_dotenv(BASE_DIR / ".env")
+except Exception:
+    # On serverless (Vercel), environment variables are provided directly via os.environ
+    pass
 
 
 class BaseLLMClient(ABC):
