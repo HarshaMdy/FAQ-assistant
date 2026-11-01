@@ -1,5 +1,7 @@
+import os
 import sys
 import json
+import traceback
 from pathlib import Path
 
 # Ensure project root is in sys.path
@@ -7,22 +9,22 @@ ROOT_DIR = Path(__file__).resolve().parent
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
-from app.orchestrator import ask
-from app.web_ui import HTML_TEMPLATE, run_server
+# Ensure serverless writable cache directories
+os.environ.setdefault("HF_HOME", "/tmp/huggingface")
+os.environ.setdefault("TORCH_HOME", "/tmp/torch")
+
+from app.template import HTML_TEMPLATE
 
 def app(environ, start_response):
     """
     Standard WSGI Application callable for Vercel Serverless Functions.
-    Handles GET / for web UI and POST /api/ask for Q&A orchestration.
+    Zero-dependency startup for GET / to guarantee instant page rendering.
     """
     path = environ.get("PATH_INFO", "/")
     method = environ.get("REQUEST_METHOD", "GET")
 
-    # Normalize trailing slash for API route
-    if path.endswith("/") and len(path) > 1:
-        clean_path = path[:-1]
-    else:
-        clean_path = path
+    # Normalize trailing slash
+    clean_path = path[:-1] if path.endswith("/") and len(path) > 1 else path
 
     if method == "GET" and (clean_path == "" or clean_path == "/"):
         body = HTML_TEMPLATE.encode("utf-8")
@@ -44,11 +46,15 @@ def app(environ, start_response):
         try:
             req_data = json.loads(request_body)
             query = req_data.get("query", "")
+            
+            # Lazy import to keep cold-start page loads lightweight
+            from app.orchestrator import ask
             result = ask(query)
         except Exception as e:
+            traceback.print_exc()
             result = {
                 "status": "refused",
-                "answer": f"Processing error: {str(e)}",
+                "answer": f"Service notice: {str(e)}",
                 "source_url": "",
                 "last_updated": "",
             }
@@ -76,8 +82,8 @@ def app(environ, start_response):
         start_response(status, response_headers)
         return [b"Not Found"]
 
-# Vercel recognizes both `app` and `application` WSGI callables
 application = app
 
 if __name__ == "__main__":
+    from app.web_ui import run_server
     run_server()
