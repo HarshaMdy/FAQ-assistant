@@ -1,0 +1,1008 @@
+[
+  {
+    "chunk_id": "2c738699-4164-4bb4-87fe-7efa00f3ccf0",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Scheme Name: HDFC Mid Cap Fund Direct Growth",
+    "metric_key": "Scheme Name"
+  },
+  {
+    "chunk_id": "35009daa-4f5f-450d-854c-af4ec3215612",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Expense Ratio: 0.74%",
+    "metric_key": "Expense Ratio"
+  },
+  {
+    "chunk_id": "d656fe03-5c9e-47cf-ae16-0b0da7e6cbd0",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Minimum SIP: ₹100",
+    "metric_key": "Minimum SIP"
+  },
+  {
+    "chunk_id": "827febf1-efd8-4c6b-ba6d-856369ab9cea",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Minimum Investment Amount: ₹100",
+    "metric_key": "Minimum Investment Amount"
+  },
+  {
+    "chunk_id": "3f7e106f-4226-43b5-8e8e-93fa8554fdd9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Exit Load: Exit load of 1% if redeemed within 1 year.",
+    "metric_key": "Exit Load"
+  },
+  {
+    "chunk_id": "cdc9df0c-30ba-4532-854f-937a814c83f4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Benchmark Index: NIFTY Midcap 150 Total Return Index",
+    "metric_key": "Benchmark Index"
+  },
+  {
+    "chunk_id": "f73bdca0-4543-4968-9a27-1f6b684f3d97",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Category: Equity",
+    "metric_key": "Category"
+  },
+  {
+    "chunk_id": "34284935-edfb-4832-81df-4405bbbcbdf2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Fund Manager: Chirag Setalvad",
+    "metric_key": "Fund Manager"
+  },
+  {
+    "chunk_id": "c4884382-afb4-439b-aa54-7326d87e08c1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | AUM (Fund Size): ₹101856.06 Cr",
+    "metric_key": "AUM (Fund Size)"
+  },
+  {
+    "chunk_id": "eac75aa1-e13b-47d0-96c7-b4d1626669a7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Groww Rating: 4 / 5",
+    "metric_key": "Groww Rating"
+  },
+  {
+    "chunk_id": "238981e3-541a-47f9-a8af-593f17887be2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Statement Download: To download account statement or capital gains statement: Log into Groww, navigate to Profile > Reports > Mutual Funds > Capital Gains Statement.",
+    "metric_key": "Statement Download"
+  },
+  {
+    "chunk_id": "df6b3bde-a166-4eda-b81b-3b9befa89f81",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Over the past: Total investment | Would've become | Historic returns | Returns",
+    "metric_key": "Over the past"
+  },
+  {
+    "chunk_id": "7b488a70-c010-4f03-8404-73ce70209ac4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | 1 year: ₹60,000 | ₹58,514 |  | -2.48%",
+    "metric_key": "1 year"
+  },
+  {
+    "chunk_id": "d6161fa4-90dd-4e0b-8ed0-a3b0e7cc2b9d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | 3 years: ₹1,80,000 | ₹1,94,523 |  | +8.07%",
+    "metric_key": "3 years"
+  },
+  {
+    "chunk_id": "522ab9b3-49ce-4715-8e0c-98ba47dd7c49",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | 5 years: ₹3,00,000 | ₹4,30,624 |  | +43.54%",
+    "metric_key": "5 years"
+  },
+  {
+    "chunk_id": "7863cc14-7f16-43eb-beed-efbaf13f203f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | 10 years: ₹6,00,000 | ₹15,33,179 |  | +155.53%",
+    "metric_key": "10 years"
+  },
+  {
+    "chunk_id": "5adbc3aa-df2a-446a-9906-fcd8b2f1a42e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Name: Sector | Instruments | Assets",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "4a722edf-73a4-43ad-bc7a-d8ed2bca3282",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Repo: Unspecified | Repo | 8.37%",
+    "metric_key": "Repo"
+  },
+  {
+    "chunk_id": "c270f1a3-f763-477b-a5f9-9025d9755801",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | The Federal Bank Ltd: Financial | Equity | 3.98%",
+    "metric_key": "The Federal Bank Ltd"
+  },
+  {
+    "chunk_id": "156f42ee-e014-42cc-888d-43382584cc4b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | AU Small Finance Bank Ltd: Financial | Equity | 3.94%",
+    "metric_key": "AU Small Finance Bank Ltd"
+  },
+  {
+    "chunk_id": "b0d1a792-39ef-4150-a7e1-9877b79a889c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Max Financial Services Ltd: Financial | Equity | 3.52%",
+    "metric_key": "Max Financial Services Ltd"
+  },
+  {
+    "chunk_id": "c1fec999-c76f-4eb3-88f2-a3fb05926238",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Ipca Laboratories Ltd: Healthcare | Equity | 3.43%",
+    "metric_key": "Ipca Laboratories Ltd"
+  },
+  {
+    "chunk_id": "04cd924f-d7c5-4a17-8aab-b28a023f387f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Glenmark Pharmaceuticals Ltd: Healthcare | Equity | 3.07%",
+    "metric_key": "Glenmark Pharmaceuticals Ltd"
+  },
+  {
+    "chunk_id": "49375b21-f8fd-416e-9a77-3ae657eca9b5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Balkrishna Industries Ltd: Consumer Discretionary | Equity | 2.98%",
+    "metric_key": "Balkrishna Industries Ltd"
+  },
+  {
+    "chunk_id": "56790e2f-fff3-44e4-ab21-efb2f9bc5ca6",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Indian Bank: Financial | Equity | 2.92%",
+    "metric_key": "Indian Bank"
+  },
+  {
+    "chunk_id": "98cf2768-1f90-4ee2-955b-30ca7643a0a8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Coforge Ltd: Technology | Equity | 2.68%",
+    "metric_key": "Coforge Ltd"
+  },
+  {
+    "chunk_id": "cf5a0325-8b53-48c0-b00f-d20a845172ff",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Fortis Healthcare Ltd: Healthcare | Equity | 2.40%",
+    "metric_key": "Fortis Healthcare Ltd"
+  },
+  {
+    "chunk_id": "38fa83b1-634f-4121-83b5-83e7230f0e7d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Marico Ltd: Consumer Staples | Equity | 2.37%",
+    "metric_key": "Marico Ltd"
+  },
+  {
+    "chunk_id": "8ba27fa3-53b6-452f-8952-85700e8bc3ba",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Vishal Mega Mart Ltd.: Consumer Staples | Equity | 2.24%",
+    "metric_key": "Vishal Mega Mart Ltd."
+  },
+  {
+    "chunk_id": "2c08a0b5-0340-4693-a1a1-c77854dabf68",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Aurobindo Pharma Ltd: Healthcare | Equity | 2.19%",
+    "metric_key": "Aurobindo Pharma Ltd"
+  },
+  {
+    "chunk_id": "1ca403ce-11ad-43e1-af80-d051c9ee4056",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Mahindra & Mahindra Financial Services Ltd: Financial | Equity | 2.11%",
+    "metric_key": "Mahindra & Mahindra Financial Services Ltd"
+  },
+  {
+    "chunk_id": "db6c1047-513d-4369-bf79-5920c1d152cb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Hindustan Petroleum Corporation Ltd: Energy & Utilities | Equity | 2.09%",
+    "metric_key": "Hindustan Petroleum Corporation Ltd"
+  },
+  {
+    "chunk_id": "9f1d42c9-7292-41c5-8fc0-5cfeda42c93f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | United Spirits Ltd: Consumer Staples | Equity | 1.90%",
+    "metric_key": "United Spirits Ltd"
+  },
+  {
+    "chunk_id": "ed1d9f58-20ca-4309-92ad-d94783daa558",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Cummins India Ltd: Industrials | Equity | 1.82%",
+    "metric_key": "Cummins India Ltd"
+  },
+  {
+    "chunk_id": "9df757e7-d3be-48d6-a819-333eaf1f5e95",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Tata Communications Ltd: Technology | Equity | 1.81%",
+    "metric_key": "Tata Communications Ltd"
+  },
+  {
+    "chunk_id": "90679ddc-520b-4f4c-8cbe-d4a1d9405059",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Persistent Systems Ltd: Technology | Equity | 1.78%",
+    "metric_key": "Persistent Systems Ltd"
+  },
+  {
+    "chunk_id": "4d203877-2182-4359-b019-83401a7bca6a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Gland Pharma Ltd: Healthcare | Equity | 1.73%",
+    "metric_key": "Gland Pharma Ltd"
+  },
+  {
+    "chunk_id": "853ff9f3-15ad-4afc-a9f0-3aaa086deb72",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Alkem Laboratories Ltd: Healthcare | Equity | 1.72%",
+    "metric_key": "Alkem Laboratories Ltd"
+  },
+  {
+    "chunk_id": "34d659e9-255c-4ee7-a74c-20be64c5edf1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Dabur India Ltd: Consumer Staples | Equity | 1.66%",
+    "metric_key": "Dabur India Ltd"
+  },
+  {
+    "chunk_id": "f904aec7-9168-43d5-a10a-00daaed69470",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Apollo Tyres Ltd: Consumer Discretionary | Equity | 1.66%",
+    "metric_key": "Apollo Tyres Ltd"
+  },
+  {
+    "chunk_id": "fff04c70-8b88-43d6-9a56-17d44553c702",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Jindal Steel & Power Ltd: Materials | Equity | 1.64%",
+    "metric_key": "Jindal Steel & Power Ltd"
+  },
+  {
+    "chunk_id": "e7505cd4-ad6a-414b-a44e-e1c9ee7ad5d1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Mphasis Ltd: Technology | Equity | 1.55%",
+    "metric_key": "Mphasis Ltd"
+  },
+  {
+    "chunk_id": "75d0b842-5004-488f-9664-439cc5358e28",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Union Bank of India: Financial | Equity | 1.51%",
+    "metric_key": "Union Bank of India"
+  },
+  {
+    "chunk_id": "060606a1-617e-4830-b27b-abad2c83ea2a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Bosch Ltd: Consumer Discretionary | Equity | 1.44%",
+    "metric_key": "Bosch Ltd"
+  },
+  {
+    "chunk_id": "bc5390b2-781e-4a1a-a445-34167eff8286",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Zomato Ltd: Technology | Equity | 1.35%",
+    "metric_key": "Zomato Ltd"
+  },
+  {
+    "chunk_id": "42e2e7d4-ec04-4b6f-b0e4-242aa3d13cab",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | AIA Engineering Ltd: Industrials | Equity | 1.29%",
+    "metric_key": "AIA Engineering Ltd"
+  },
+  {
+    "chunk_id": "323752f5-823e-411a-a32c-4d1fb1fe7dff",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Delhivery Ltd: Industrials | Equity | 1.27%",
+    "metric_key": "Delhivery Ltd"
+  },
+  {
+    "chunk_id": "938c3931-ea30-4131-ab4b-3d2437bc471b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Karur Vysya Bank Ltd: Financial | Equity | 1.25%",
+    "metric_key": "Karur Vysya Bank Ltd"
+  },
+  {
+    "chunk_id": "ed95e768-e95a-444e-a3cc-35a0f8da6f9c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Bharat Forge Ltd: Consumer Discretionary | Equity | 1.22%",
+    "metric_key": "Bharat Forge Ltd"
+  },
+  {
+    "chunk_id": "27d5373d-3517-4ecb-83a5-63728745c501",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Coromandel International Ltd: Materials | Equity | 1.19%",
+    "metric_key": "Coromandel International Ltd"
+  },
+  {
+    "chunk_id": "b3248611-b7ef-48cd-be19-d0695b732062",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Redington Ltd: Technology | Equity | 1.10%",
+    "metric_key": "Redington Ltd"
+  },
+  {
+    "chunk_id": "fee26502-de6a-4be5-898c-db678af740c7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Star Health & Allied Insurance Co. Ltd: Financial | Equity | 1.08%",
+    "metric_key": "Star Health & Allied Insurance Co. Ltd"
+  },
+  {
+    "chunk_id": "baf95c27-5de3-4aae-afee-c21e30a0ee37",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | PB Fintech Ltd: Financial | Equity | 1.07%",
+    "metric_key": "PB Fintech Ltd"
+  },
+  {
+    "chunk_id": "c378ae2a-715c-4989-97c5-17590f6bcd66",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Indusind Bank Ltd: Financial | Equity | 1.04%",
+    "metric_key": "Indusind Bank Ltd"
+  },
+  {
+    "chunk_id": "e493fbcd-d0e7-4959-86b3-d366af8a347a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Nippon Life India Asset Management Ltd: Financial | Equity | 1.04%",
+    "metric_key": "Nippon Life India Asset Management Ltd"
+  },
+  {
+    "chunk_id": "a1b16758-1704-4db7-95dc-70bd234999ca",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | The Indian Hotels Company Ltd: Consumer Discretionary | Equity | 1.01%",
+    "metric_key": "The Indian Hotels Company Ltd"
+  },
+  {
+    "chunk_id": "8a98559a-d6bb-41ec-a737-fbde59385f09",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Godrej Consumer Products Ltd: Consumer Staples | Equity | 0.98%",
+    "metric_key": "Godrej Consumer Products Ltd"
+  },
+  {
+    "chunk_id": "1d2af012-d947-4aef-971c-445a9eef87e0",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | ICICI Lombard General Insurance Company Ltd: Financial | Equity | 0.95%",
+    "metric_key": "ICICI Lombard General Insurance Company Ltd"
+  },
+  {
+    "chunk_id": "9e3c88c5-2974-456f-b1c5-0c4b4dbacf89",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Aster DM Healthcare Ltd: Healthcare | Equity | 0.90%",
+    "metric_key": "Aster DM Healthcare Ltd"
+  },
+  {
+    "chunk_id": "c8b3a8e1-3852-40b0-bf99-0a0690f250e8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Havells India Ltd: Consumer Discretionary | Equity | 0.84%",
+    "metric_key": "Havells India Ltd"
+  },
+  {
+    "chunk_id": "cf87db21-bf28-4a01-958f-26361063502f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Sona BLW Precision Forgings Ltd: Consumer Discretionary | Equity | 0.82%",
+    "metric_key": "Sona BLW Precision Forgings Ltd"
+  },
+  {
+    "chunk_id": "6499fc9e-68ae-4cf3-b983-2910ce07a1b1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Sundram Fasteners Ltd: Industrials | Equity | 0.81%",
+    "metric_key": "Sundram Fasteners Ltd"
+  },
+  {
+    "chunk_id": "703a3c5b-6f9b-417c-a1c2-43e7507503bf",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Escorts Kubota Ltd: Industrials | Equity | 0.79%",
+    "metric_key": "Escorts Kubota Ltd"
+  },
+  {
+    "chunk_id": "f0e61de9-98b9-4193-a8bc-83b787999394",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-: Technology | Equity | 0.78%",
+    "metric_key": "HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-"
+  },
+  {
+    "chunk_id": "c1b1e9ac-28b4-46cd-a272-2021fe0add46",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | City Union Bank Ltd: Financial | Equity | 0.74%",
+    "metric_key": "City Union Bank Ltd"
+  },
+  {
+    "chunk_id": "4d22cb1e-dca5-4ecb-9f4f-52c6bf2ae16d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Indraprastha Gas Ltd: Energy & Utilities | Equity | 0.73%",
+    "metric_key": "Indraprastha Gas Ltd"
+  },
+  {
+    "chunk_id": "a4ecb398-476f-4894-809b-9631a0687f90",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Dixon Technologies (India) Ltd: Consumer Discretionary | Equity | 0.66%",
+    "metric_key": "Dixon Technologies (India) Ltd"
+  },
+  {
+    "chunk_id": "dcc4d38a-484d-401a-9f99-cd252159ff9b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | SKF India (Industrial) Ltd: Industrials | Equity | 0.64%",
+    "metric_key": "SKF India (Industrial) Ltd"
+  },
+  {
+    "chunk_id": "70e3fd58-8fae-43af-a49a-f1784120b2d4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Timken India Ltd: Industrials | Equity | 0.60%",
+    "metric_key": "Timken India Ltd"
+  },
+  {
+    "chunk_id": "ee5fc461-04a8-4193-b2c5-905edb3f7783",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Gujarat Fluorochemicals Ltd: Materials | Equity | 0.60%",
+    "metric_key": "Gujarat Fluorochemicals Ltd"
+  },
+  {
+    "chunk_id": "83657dc3-1bd3-4fab-b81b-c98ef55b24fd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Crompton Greaves Consumer Electricals Ltd: Consumer Discretionary | Equity | 0.59%",
+    "metric_key": "Crompton Greaves Consumer Electricals Ltd"
+  },
+  {
+    "chunk_id": "b9241a94-a1ba-46b5-8c23-245e11ee4c38",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Supreme Industries Ltd: Materials | Equity | 0.56%",
+    "metric_key": "Supreme Industries Ltd"
+  },
+  {
+    "chunk_id": "ed2f8840-2b60-42e7-ab02-5a732d027b2a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | ACC Ltd: Materials | Equity | 0.56%",
+    "metric_key": "ACC Ltd"
+  },
+  {
+    "chunk_id": "392b196b-efe0-461a-a814-9ccda16145a5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Arvind Ltd: Consumer Discretionary | Equity | 0.43%",
+    "metric_key": "Arvind Ltd"
+  },
+  {
+    "chunk_id": "df5726ca-b5a4-401e-b237-ab06e80e66e3",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Petronet LNG Ltd: Energy & Utilities | Equity | 0.36%",
+    "metric_key": "Petronet LNG Ltd"
+  },
+  {
+    "chunk_id": "8d86408a-9d7a-4be8-a8ba-91edeb68c1f5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Oracle Financial Services Software Ltd: Technology | Equity | 0.36%",
+    "metric_key": "Oracle Financial Services Software Ltd"
+  },
+  {
+    "chunk_id": "334a2d33-6bba-4c2b-9d5e-29aa2d301a78",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Aarti Industries Ltd: Materials | Equity | 0.36%",
+    "metric_key": "Aarti Industries Ltd"
+  },
+  {
+    "chunk_id": "165767d2-c262-483d-9b33-c38960ba0a02",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | SKF India Ltd: Industrials | Equity | 0.35%",
+    "metric_key": "SKF India Ltd"
+  },
+  {
+    "chunk_id": "51bae393-5600-4be4-ad0b-4ffd9458bb22",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Cholamandalam Financial Holdings Ltd: Financial | Equity | 0.31%",
+    "metric_key": "Cholamandalam Financial Holdings Ltd"
+  },
+  {
+    "chunk_id": "3915e02f-8526-4ce5-b67a-4d2279aca4d2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Vardhman Textiles Ltd: Consumer Discretionary | Equity | 0.30%",
+    "metric_key": "Vardhman Textiles Ltd"
+  },
+  {
+    "chunk_id": "46099067-a314-43ac-b5f7-189895def5cd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Vesuvius India Ltd: Industrials | Equity | 0.30%",
+    "metric_key": "Vesuvius India Ltd"
+  },
+  {
+    "chunk_id": "1388cae2-1e20-49d8-a6ae-b7a2cd5dcd65",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | KEC International Ltd: Diversified | Equity | 0.30%",
+    "metric_key": "KEC International Ltd"
+  },
+  {
+    "chunk_id": "088e1631-84a5-4040-9912-03a208c9ba22",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Mahindra CIE Automotive Ltd: Consumer Discretionary | Equity | 0.27%",
+    "metric_key": "Mahindra CIE Automotive Ltd"
+  },
+  {
+    "chunk_id": "2c6b47e9-3927-4152-ac70-ccce238263eb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Symphony Ltd: Consumer Discretionary | Equity | 0.21%",
+    "metric_key": "Symphony Ltd"
+  },
+  {
+    "chunk_id": "96d72a16-11f4-4e05-aebf-c7322cb4ad70",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Five-Star Business Finance Ltd: Financial | Equity | 0.20%",
+    "metric_key": "Five-Star Business Finance Ltd"
+  },
+  {
+    "chunk_id": "63df4d37-aa46-41e9-8eb5-8a6d579459b1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Bharti Hexacom Ltd.: Technology | Equity | 0.19%",
+    "metric_key": "Bharti Hexacom Ltd."
+  },
+  {
+    "chunk_id": "5cfcd5e5-aa76-4596-b3e5-2f1330142ab2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Colgate-Palmolive (India) Ltd: Consumer Staples | Equity | 0.18%",
+    "metric_key": "Colgate-Palmolive (India) Ltd"
+  },
+  {
+    "chunk_id": "e7c20056-81be-4ac2-a5cc-0262026dc227",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Billionbrains Garage Ventures Ltd.: Financial | Equity | 0.18%",
+    "metric_key": "Billionbrains Garage Ventures Ltd."
+  },
+  {
+    "chunk_id": "37c7ff6c-fd3f-42d4-9061-c890c6a3862d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | LG Electronics India Ltd.: Consumer Discretionary | Equity | 0.17%",
+    "metric_key": "LG Electronics India Ltd."
+  },
+  {
+    "chunk_id": "6811ec9c-b980-4c15-abbd-2c9bb43c8aa4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Navneet Education Ltd: Consumer Discretionary | Equity | 0.16%",
+    "metric_key": "Navneet Education Ltd"
+  },
+  {
+    "chunk_id": "43f3aa4c-8ff2-4739-b1a4-95a534b3aaf1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Greenply Industries Ltd: Materials | Equity | 0.16%",
+    "metric_key": "Greenply Industries Ltd"
+  },
+  {
+    "chunk_id": "eab7e579-f315-4469-8baf-6a7105a7c642",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Greenlam Industries Ltd: Materials | Equity | 0.13%",
+    "metric_key": "Greenlam Industries Ltd"
+  },
+  {
+    "chunk_id": "9d7d3b72-5059-4499-948a-bc7d93ff7bdb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Dhanuka Agritech Ltd: Materials | Equity | 0.10%",
+    "metric_key": "Dhanuka Agritech Ltd"
+  },
+  {
+    "chunk_id": "77267bf7-a340-41da-8588-d8829fa12975",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Jagran Prakashan Ltd: Industrials | Equity | 0.03%",
+    "metric_key": "Jagran Prakashan Ltd"
+  },
+  {
+    "chunk_id": "4a2c9b99-5f9e-4772-90b6-970704461ffe",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Emami Ltd: Consumer Staples | Equity | 0.03%",
+    "metric_key": "Emami Ltd"
+  },
+  {
+    "chunk_id": "bc69d8a9-ca0f-4b12-817d-c7621b19103c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Greenpanel Industries Ltd: Materials | Equity | 0.02%",
+    "metric_key": "Greenpanel Industries Ltd"
+  },
+  {
+    "chunk_id": "8f6d8281-8c05-420e-82d3-5698eac14fe5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | KNR Constructions Ltd: Industrials | Equity | 0.01%",
+    "metric_key": "KNR Constructions Ltd"
+  },
+  {
+    "chunk_id": "cf8c42b7-53ac-4ba4-8c2c-d61f065f6bbf",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Net Payables: Unspecified | Net Payables | -0.08%",
+    "metric_key": "Net Payables"
+  },
+  {
+    "chunk_id": "2826f223-bb18-4b0e-add8-dbe7860ab7ce",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Name: 3Y | 5Y | 10Y | All",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "ddc2dd4b-4d0e-4ec0-b5bf-beeedce0d9b4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Fund returns: +15.5% | +17.1% | +16.3% | +19.3%",
+    "metric_key": "Fund returns"
+  },
+  {
+    "chunk_id": "2ce5c453-fc81-48ef-9021-a55bd2eafb8d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Category average (Equity Mid Cap): +14.5% | +13.6% | +15.3% | +17.9%",
+    "metric_key": "Category average (Equity Mid Cap)"
+  },
+  {
+    "chunk_id": "8e98246e-00d2-4f1a-8b30-39cd48b31907",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Mid Cap | Rank (Equity Mid Cap): 14 | 4 | 7 | --",
+    "metric_key": "Rank (Equity Mid Cap)"
+  },
+  {
+    "chunk_id": "ffe006f9-51ca-4e89-9650-ef25fc5b5d3c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nHDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio\nStocks\nInvest in Stocks\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nIntraday\nMonitor top intraday performers in real time\nETF Screener\nGet the best of Mutual Funds and flexibility of Stocks\nIPO\nTrack upcoming and ongoing IPOs\nMTFs\nBuy now, pay later\nStock Screener\nFilter based on RSI, PE ratio and more\nStock Events\nDividends, bonus, buybacks and more\nDemat Account\nBegin your stock market journey\nShare Market Today\nLive news updates from stock market\nF&O\nTrade in Futures & Options\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nIndices\nTrack markets across the globe\nTerminal\nTrack charts, orders, positions, watchlists in one place\nOption chain\nAnalyse chains, view payoffs, create baskets\nPledge\nGet extra balance for trading\nCommodities\nTrade in Crude Oil, Gold, Silver and more\nAPI trading\nSet up and execute trades through our API\nMutual Funds\nInvest in Mutual Funds\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nMutual Fund Houses\nKnow about AMCs, funds, fund managers\nNFO’s\nTrack all active NFOs in one place\nMutual Funds by Groww\nMutual funds by Groww designed for your investment goals\nStart SIP\nBuild long-term wealth through disciplined monthly investing.\nMutual Funds screener\nFilter funds based on risk, fund size and more\nTrack Funds\nImport funds and track all investments in a single place\nCompare Funds\nMore\nSIP calculator\nEstimate returns on a SIP\nBrokerage calculator\nEstimate charges for your trade/investment\nMargin calculator\nEstimate balance needed to buy/sell a stock\nSWP calculator\nReturns on your systematic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+15.54\n%\n3Y annualised\n-0.76\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹215.99\nMin. for SIP\n₹100\nFund size (AUM)\n₹1,01,856.06 Cr\nExpense ratio\n0."
+  },
+  {
+    "chunk_id": "453d5ac5-063c-458a-af2f-18f8e88723ac",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\ntic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+15.54\n%\n3Y annualised\n-0.76\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹215.99\nMin. for SIP\n₹100\nFund size (AUM)\n₹1,01,856.06 Cr\nExpense ratio\n0.74%\nRating\n4\nReturn calculator\nMonthly SIP\nOne time\nMonthly investment\n₹5,000\nOver the past\nTotal investment\nWould've become\nHistoric returns\nReturns\n1 year\n₹60,000\n₹58,514\n-2.48\n%\n3 years\n₹1,80,000\n₹1,94,523\n+\n8.07\n%\n5 years\n₹3,00,000\n₹4,30,624\n+\n43.54\n%\n10 years\n₹6,00,000\n₹15,33,179\n+\n155.53\n%\nHoldings (\n81\n)\nName\nSector\nInstruments\nAssets\nRepo\nUnspecified\nRepo\n8.37%\nThe Federal Bank Ltd\nFinancial\nEquity\n3.98%\nAU Small Finance Bank Ltd\nFinancial\nEquity\n3.94%\nMax Financial Services Ltd\nFinancial\nEquity\n3.52%\nIpca Laboratories Ltd\nHealthcare\nEquity\n3.43%\nGlenmark Pharmaceuticals Ltd\nHealthcare\nEquity\n3.07%\nBalkrishna Industries Ltd\nConsumer Discretionary\nEquity\n2.98%\nIndian Bank\nFinancial\nEquity\n2.92%\nCoforge Ltd\nTechnology\nEquity\n2.68%\nFortis Healthcare Ltd\nHealthcare\nEquity\n2.40%\nMarico Ltd\nConsumer Staples\nEquity\n2.37%\nVishal Mega Mart Ltd.\nConsumer Staples\nEquity\n2.24%\nAurobindo Pharma Ltd\nHealthcare\nEquity\n2.19%\nMahindra & Mahindra Financial Services Ltd\nFinancial\nEquity\n2.11%\nHindustan Petroleum Corporation Ltd\nEnergy & Utilities\nEquity\n2.09%\nUnited Spirits Ltd\nConsumer Staples\nEquity\n1.90%\nCummins India Ltd\nIndustrials\nEquity\n1.82%\nTata Communications Ltd\nTechnology\nEquity\n1.81%\nPersistent Systems Ltd\nTechnology\nEquity\n1.78%\nGland Pharma Ltd\nHealthcare\nEquity\n1.73%\nAlkem Laboratories Ltd\nHealthcare\nEquity\n1.72%\nDabur India Ltd\nConsumer Staples\nEquity\n1.66%\nApollo Tyres Ltd\nConsumer Discretionary\nEquity\n1.66%\nJindal Steel & Power Ltd\nMaterials\nEquity\n1.64%\nMphasis Ltd\nTechnology\nEquity\n1.55%\nUnion Bank of India\nFinancial\nEquity\n1.51%\nBosch Ltd\nConsumer Discretionary\nEquity\n1.44%\nZomato Ltd\nTechnology\nEquity\n1.35%\nAIA Engineering Ltd\nIndustrials\nEquity\n1.29%\nDelhivery Ltd\nIndustrials\nEquity\n1.27%\nKarur Vysya Bank Ltd\nFinancial\nEquity\n1.25%\nBharat Forge Ltd"
+  },
+  {
+    "chunk_id": "faf76723-ec09-460d-8b21-b7a316cbd9e8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nIndia\nFinancial\nEquity\n1.51%\nBosch Ltd\nConsumer Discretionary\nEquity\n1.44%\nZomato Ltd\nTechnology\nEquity\n1.35%\nAIA Engineering Ltd\nIndustrials\nEquity\n1.29%\nDelhivery Ltd\nIndustrials\nEquity\n1.27%\nKarur Vysya Bank Ltd\nFinancial\nEquity\n1.25%\nBharat Forge Ltd\nConsumer Discretionary\nEquity\n1.22%\nCoromandel International Ltd\nMaterials\nEquity\n1.19%\nRedington Ltd\nTechnology\nEquity\n1.10%\nStar Health & Allied Insurance Co. Ltd\nFinancial\nEquity\n1.08%\nPB Fintech Ltd\nFinancial\nEquity\n1.07%\nIndusind Bank Ltd\nFinancial\nEquity\n1.04%\nNippon Life India Asset Management Ltd\nFinancial\nEquity\n1.04%\nThe Indian Hotels Company Ltd\nConsumer Discretionary\nEquity\n1.01%\nGodrej Consumer Products Ltd\nConsumer Staples\nEquity\n0.98%\nICICI Lombard General Insurance Company Ltd\nFinancial\nEquity\n0.95%\nAster DM Healthcare Ltd\nHealthcare\nEquity\n0.90%\nHavells India Ltd\nConsumer Discretionary\nEquity\n0.84%\nSona BLW Precision Forgings Ltd\nConsumer Discretionary\nEquity\n0.82%\nSundram Fasteners Ltd\nIndustrials\nEquity\n0.81%\nEscorts Kubota Ltd\nIndustrials\nEquity\n0.79%\nHEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-\nTechnology\nEquity\n0.78%\nCity Union Bank Ltd\nFinancial\nEquity\n0.74%\nIndraprastha Gas Ltd\nEnergy & Utilities\nEquity\n0.73%\nDixon Technologies (India) Ltd\nConsumer Discretionary\nEquity\n0.66%\nSKF India (Industrial) Ltd\nIndustrials\nEquity\n0.64%\nTimken India Ltd\nIndustrials\nEquity\n0.60%\nGujarat Fluorochemicals Ltd\nMaterials\nEquity\n0.60%\nCrompton Greaves Consumer Electricals Ltd\nConsumer Discretionary\nEquity\n0.59%\nSupreme Industries Ltd\nMaterials\nEquity\n0.56%\nACC Ltd\nMaterials\nEquity\n0.56%\nArvind Ltd\nConsumer Discretionary\nEquity\n0.43%\nPetronet LNG Ltd\nEnergy & Utilities\nEquity\n0.36%\nOracle Financial Services Software Ltd\nTechnology\nEquity\n0.36%\nAarti Industries Ltd\nMaterials\nEquity\n0.36%\nSKF India Ltd\nIndustrials\nEquity\n0.35%\nCholamandalam Financial Holdings Ltd\nFinancial\nEquity\n0.31%\nVardhman Textiles Ltd\nConsumer Discretionary\nEquity\n0.30%\nVesuvius India Ltd\nIndustrials\nEquity\n0.30%\nKEC International Ltd\nDiversified\nEquity\n0.30%\nMahindra CIE Automotive L"
+  },
+  {
+    "chunk_id": "d2a23047-f8f2-4bed-8651-03e1dc41c04b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nustrials\nEquity\n0.35%\nCholamandalam Financial Holdings Ltd\nFinancial\nEquity\n0.31%\nVardhman Textiles Ltd\nConsumer Discretionary\nEquity\n0.30%\nVesuvius India Ltd\nIndustrials\nEquity\n0.30%\nKEC International Ltd\nDiversified\nEquity\n0.30%\nMahindra CIE Automotive Ltd\nConsumer Discretionary\nEquity\n0.27%\nSymphony Ltd\nConsumer Discretionary\nEquity\n0.21%\nFive-Star Business Finance Ltd\nFinancial\nEquity\n0.20%\nBharti Hexacom Ltd.\nTechnology\nEquity\n0.19%\nColgate-Palmolive (India) Ltd\nConsumer Staples\nEquity\n0.18%\nBillionbrains Garage Ventures Ltd.\nFinancial\nEquity\n0.18%\nLG Electronics India Ltd.\nConsumer Discretionary\nEquity\n0.17%\nNavneet Education Ltd\nConsumer Discretionary\nEquity\n0.16%\nGreenply Industries Ltd\nMaterials\nEquity\n0.16%\nGreenlam Industries Ltd\nMaterials\nEquity\n0.13%\nDhanuka Agritech Ltd\nMaterials\nEquity\n0.10%\nJagran Prakashan Ltd\nIndustrials\nEquity\n0.03%\nEmami Ltd\nConsumer Staples\nEquity\n0.03%\nGreenpanel Industries Ltd\nMaterials\nEquity\n0.02%\nKNR Constructions Ltd\nIndustrials\nEquity\n0.01%\nNet Payables\nUnspecified\nNet Payables\n-0.08%\nSee All\nMinimum investments\nMin. for 1st investment\n₹100\nMin. for 2nd investment\n₹100\nMin. for SIP\n₹100\nUnderstand terms\nAnnualised returns\nAverage of the yearly returns of a mutual fund over a given period.\nAbsolute returns\nThe total return of a mutual fund over a given period.\nReturns and rankings\nAnnualised returns\nAbsolute returns\nName\n3Y\n5Y\n10Y\nAll\nFund returns\n+15.5%\n+17.1%\n+16.3%\n+19.3%\nCategory average (\nEquity Mid Cap\n)\n+14.5%\n+13.6%\n+15.3%\n+17.9%\nRank (\nEquity Mid Cap\n)\n14\n4\n7\n--\nUnderstand terms\nExpense ratio\nA fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.\nTax\nA percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.\nExit loa"
+  },
+  {
+    "chunk_id": "89ce14ea-b3c4-4c10-a839-95829821e19b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.\nExit load\nA fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.\nStamp duty\nA form of tax payable for the purchase or sale of an asset or security.\nExit Load\n01 Jan 2013\nExit load of 1% if redeemed within 1 year.\nExit load, stamp duty and tax\nExit load\nExit load of 1% if redeemed within 1 year.\nStamp duty on investment:\n0.005% (from July 1st, 2020)\nfrom July 1st 2020\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nCheck past data\nCompare similar funds\nName\n1Y\n3Y\nFund Size(Cr)\nInvesco India Mid Cap Fund Direct Growth\n+0.32%\n+21.88%\n15,748.83\nHSBC Midcap Fund Direct Growth\n+10.54%\n+21.56%\n16,799.59\nWhiteOak Capital Mid Cap Fund Direct Growth\n+4.25%\n+20.27%\n8,399.71\nEdelweiss Mid Cap Direct Plan Growth\n-1.67%\n+18.90%\n19,230.16\nNippon India Growth Mid Cap Fund Direct Growth\n-1.19%\n+16.40%\n50,176.01\nCompare\nFund management\nCS\nChirag Setalvad\nJan 2013\n- Present\nView details\nEducation\nMr. Setalvad is a B. Sc and MBA from University of North Carolina.\nExperience\nPrior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.\nAlso manages these schemes\nHDFC Mid Cap Fund Direct Growth\nHDFC Small Cap Fund Direct Growth\nHDFC Retirement Fund Equity Plan Direct Growth\nHDFC Retirement Fund Hybrid Equity Plan Direct Growth\nHDFC Retirement Fund Hybrid Debt Plan Direct Growth\nHDFC Children's Fund Direct Plan\nDM\nDhruv Muchhal\nJun 2023\n- Present\nView details\nEducation\nMr. Dhruv has done B.Com, CA and CFA\nExperience\nPrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Re"
+  },
+  {
+    "chunk_id": "ca93c601-1fc2-468c-b461-b07ae517455f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nh\nHDFC Children's Fund Direct Plan\nDM\nDhruv Muchhal\nJun 2023\n- Present\nView details\nEducation\nMr. Dhruv has done B.Com, CA and CFA\nExperience\nPrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\nAlso manages these schemes\nHDFC Flexi Cap Direct Plan Growth\nHDFC Value Fund Direct Plan Growth\nHDFC Ultra Short to Short Term Fund Direct Growth\nHDFC Focused Fund Direct Growth\nHDFC Floating Interest Rates Fund Direct Plan Growth\nHDFC Balanced Advantage Fund Direct Growth\nHDFC Dynamic Term Fund Direct Plan Growth\nHDFC Medium Term Fund Direct Growth\nHDFC Medium to Long Term Fund Direct Growth\nHDFC Infrastructure Fund Direct Growth\nHDFC Corporate Bond Fund Direct Plan Growth\nHDFC Conservative Hybrid Fund Direct Growth\nHDFC Mid Cap Fund Direct Growth\nHDFC Equity Savings Direct Plan Growth\nHDFC Multi Asset Allocation Fund Direct Growth\nHDFC Aggressive Hybrid Fund Direct Plan Growth\nHDFC Short Term Fund Direct Plan Growth\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nHDFC Large Cap Fund Direct Growth\nHDFC Credit Risk Fund Direct Growth\nHDFC Banking and PSU Debt Fund Direct Growth\nHDFC Arbitrage Fund Direct Growth\nHDFC Large & Mid Cap Fund Direct Growth\nHDFC Small Cap Fund Direct Growth\nHDFC Ultra Short Term Fund Direct Growth\nHDFC Liquid Direct Plan Growth\nHDFC Overnight Fund Direct Growth\nHDFC Money Market Fund Direct Growth\nHDFC Housing Opportunities Fund Direct Growth\nHDFC Banking & Financial Services Fund Direct Growth\nHDFC Multi Cap Fund Direct Growth\nHDFC Business Cycle Fund Direct Growth\nHDFC Long Term Fund Direct Growth\nHDFC MNC Fund Direct Growth\nHDFC Defence Fund Direct Growth\nHDFC Consumption Fund Direct Growth\nHDFC Transportation and Logistics Fund Direct Growth\nHDFC Technology Fund Direct Growth\nHDFC Pharma And Healthcare Fund Direct Growth\nHDFC Manufacturing Fund Direct Growth\nHDFC Children's Fund Direct Plan\nHDFC Innovation Fund Direct Growth\nAbout\nHDFC Mid Cap Fund Direct Growth\nHDFC Mid Cap Fund Direct G"
+  },
+  {
+    "chunk_id": "2036d4d3-d3b4-4e02-968c-24f56209ec56",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nowth\nHDFC Technology Fund Direct Growth\nHDFC Pharma And Healthcare Fund Direct Growth\nHDFC Manufacturing Fund Direct Growth\nHDFC Children's Fund Direct Plan\nHDFC Innovation Fund Direct Growth\nAbout\nHDFC Mid Cap Fund Direct Growth\nHDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 30 Oct 2026 is ₹215.99.\nThe HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.\n;\nInvestment Objective\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.\nFund benchmark\nNIFTY Midcap 150 Total Return Index\nScheme Information Document(SID)\nFund house\nHDFC Mutual Fund\nRank (total assets)\n#2 in India\nTotal AUM\n₹9,34,075.66 Cr\nDate of Incorporation\n10 Dec 1999\nPhone\n022 – 66316333\nE-mail\n[email protected]\nWebsite\nhttp://www.hdfcfund.com\nLaunch Date\n10 Dec 1999\nAddress\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\nCustodian\n--\nRegistrar & Transfer Agent\nCams\nEmail\n[email protected]\nWebsite\nwww.camsonline.com\nAddress\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\nHome\n>\nMutual Funds\n>\nHDFC Mutual Fund\n>\nHDFC Mid Cap Fund Direct Growth\nVaishnavi Tech Park, South Tower, 3rd Floor\nSarjapur Main Road, Bellandur, Bengaluru – 560103\nKarnataka\nContact Us\nDownload the App\nGROWW\nAbout Us\nPricing\nBlog\nMedia & Press\nCareers\nHelp & Support\nTrust & Safety\nInvestor Relations\nPRODUCTS\nStocks\nF&O\nMTF\nETF\nIPO\nMutual Funds\nCommodities\nGroww Terminal\n915 Terminal\nStock Screens\nAlgo Trading\nGroww Charts\nGroww Digest\nDemat Account\nGroww AMC\nPMS\nBonds\nCredit\n© 2016-\n2026\nGroww. All rights reserved.\nVersion:\n8.1.4\nShare Market\nIndices\nF&O\nMutual Fund"
+  },
+  {
+    "chunk_id": "3abd7d50-b6a5-4209-a1b6-c79c0f7b92a9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nF&O\nMTF\nETF\nIPO\nMutual Funds\nCommodities\nGroww Terminal\n915 Terminal\nStock Screens\nAlgo Trading\nGroww Charts\nGroww Digest\nDemat Account\nGroww AMC\nPMS\nBonds\nCredit\n© 2016-\n2026\nGroww. All rights reserved.\nVersion:\n8.1.4\nShare Market\nIndices\nF&O\nMutual Funds\nETFs\nFunds By Groww\nCalculators\nIPO\nMiscellaneous\nTop Gainers Stocks\n52 Weeks High Stocks\nTata Motors\nNHPC\nITC\nWipro\nBSE\nNTPC\nTop Losers Stocks\n52 Weeks Low Stocks\nIREDA\nState Bank of India\nAdani Power\nCDSL\nCochin Shipyard\nSJVN\nMost Traded Stocks\nStocks Market Calender\nTata Steel\nTata Power\nBharat Heavy Electricals\nIndian Oil Corporation\nHUDCO\nSAIL\nStocks Feed\nSuzlon Energy\nZomato (Eternal)\nYes Bank\nInfosys\nNBCC\nIRCTC\nShare Market Live Update\nFII DII Activity\nIRFC\nBharat Electronics\nHDFC Bank\nVedanta\nReliance Power\nJaiprakash Power Ventures\nStocks Sectors\nNIFTY 50\nNIFTY Midcap 100\nNIFTY 100\nUS Tech 100\nNIFTY Realty\nNikkei index\nSENSEX\nNIFTY Smallcap 100\nNIFTY Auto\nDow Jones Futures\nNIFTY PSU Bank\nNIFTY FMCG\nNIFTY BANK\nNIFTY MIDCAP 150\nKOSPI Index\nDow Jones Index\nGift Nifty\nBSE BANKEX\nIndia VIX\nNIFTY Pharma\nHANG SENG Index\nBSE 100\nFTSE 100 Index\nS&P 500\nNIFTY NEXT 50\nNIFTY Metal\nDAX Index\nNIFTY Fin Service\nCAC Index\nNifty Pvt Bank\nNIFTY Bank Options\nSBI Options\nBajaj Finance Options\nAxis Bank Options\nHindustan Unilever Options\nNIFTY Bank Futures\nFinnifty Futures\nITC Futures\nICICI Bank Futures\nBiocon Futures\nIndusind Bank Futures\nCrude Oil Mini Future Price\nGold Petal Future Price\nSilver Micro Future Price\nNickel Future Price\nNatural Gas Mini MCX Option Chain\nCopper MCX Option Chain\nNIFTY 50 Options\nHDFC Bank Options\nWipro  Options\nDLF Options\nREC  Options\nYes Bank Futures\nZomato Futures\nAshok Leyland Futures\nHDFC Bank Futures\nUPL Futures\nAdani Enterprises Futures\nGold Future Price\nNatural Gas Future Price\nZinc Future Price\nGold MCX Option Chain\nGold Mini MCX Option Chain\nCommodities Expiry Calendar\nBse Sensex Options\nTata Steel Options\nNTPC Options\nBajaj Auto Options\nIndusind Bank Options\nTata Motors Futures\nInfosys Futures\nAsian Paints Futures\nLupin Futures\nCi"
+  },
+  {
+    "chunk_id": "33b97b86-a7ed-4ac3-a5b9-93c2b20d1ec3",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nFuture Price\nGold MCX Option Chain\nGold Mini MCX Option Chain\nCommodities Expiry Calendar\nBse Sensex Options\nTata Steel Options\nNTPC Options\nBajaj Auto Options\nIndusind Bank Options\nTata Motors Futures\nInfosys Futures\nAsian Paints Futures\nLupin Futures\nCipla Futures\nIDFC First Bank Futures\nGold Mini Future Price\nNatural Gas Mini Future Price\nCopper Future Price\nCrude Oil MCX Option Chain\nSilver MCX Option Chain\nFinnifty Options\nInfosys Options\nAsian Paints Options\nCoal India Options\nAshok Leyland Options\nTata Steel Futures\nBSE Sensex Futures\nWipro Futures\nDLF Futures\nBajaj Finance Futures\nPiramal Enterprises Futures\nGold Ten Future Price\nSilver Future Price\nAluminium Future Price\nCrude Oil Mini MCX Option Chain\nSilver Mini MCX Option Chain\nTata Motors Options\nITC Options\nICICI Bank Options\nAdani Enterprises Options\nNIFTY 50 Futures\nCoal India Futures\nAxis Bank Futures\nVedanta Futures\nReliance Industries Futures\nHindustan Copper Futures\nCrude Oil Future Price\nGold Guinea Future Price\nSilver Mini Future Price\nElectricity Future Price\nNatural Gas MCX Option Chain\nZinc MCX Option Chain\nMF Screener\nDebt Mutual Funds\nBest Multicap Mutual funds\nBest Contra Mutual funds\nBest Conservative Hybrid Mutual funds\nSBI Contra Fund\nNippon India Nifty 500 Momentum 50 Index Fund\nHDFC Balanced Advantage Fund\nQuant Mid Cap Fund\nBank of India Small Cap Fund\nQuant Multi Asset Fund\nNippon India\nTATA\nBandhan\nEdelweiss\nHSBC\nUnion\nQuantum\nShriram\nCompare Mutual Funds\nBest Debt Mutual funds\nBest Large Cap Mutual funds\nBest Value Oriented Mutual funds\nParag Parikh Flexi Cap Fund\nHDFC Mid Cap Opportunities Fund\nMotilal Oswal Nifty India Defence Index Fund\nICICI Prudential India Opportunities Fund\nKotak Small Cap Fund\nCanara Robeco Bluechip Equity Fund\nGrowwMF\nMotilal Oswal\nAditya Birla\nAxis\nBank of India\nBajaj Finserv\nHelios\nITI\nTrust\nMF Knowledge Centre\nBest Equity Mutual funds\nBest Small Cap Mutual funds\nBest Arbitrage Mutual funds\nMotilal Oswal Midcap Fund\nSBI Small Cap Fund\nHDFC Small Cap Fund\nKotak Multicap Fund\nICICI Prudential Infrast"
+  },
+  {
+    "chunk_id": "7da175d6-a740-4c37-9fe6-840d8914d5c4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nBank of India\nBajaj Finserv\nHelios\nITI\nTrust\nMF Knowledge Centre\nBest Equity Mutual funds\nBest Small Cap Mutual funds\nBest Arbitrage Mutual funds\nMotilal Oswal Midcap Fund\nSBI Small Cap Fund\nHDFC Small Cap Fund\nKotak Multicap Fund\nICICI Prudential Infrastructure Fund\nBandhan Nifty Alpha 50 Index Fund\nSBI\nQuant\nMirae Asset\nDSP\nBaroda BNP Paribas\nMahindra Manulife\nSundaram\nSamco\nTaurus\nMutual Fund Houses\nBest Hybrid Mutual funds\nBest ELSS Mutual funds\nBest Dividend Yield Mutual funds\nNippon India Small Cap Fund\nHDFC Flexi Cap Fund\nTata Small Cap Fund\nTata Ethical Fund\nMirae Asset ELSS Tax Saver Fund\nQuant Infrastructure Fund\nHDFC\nPPFAS\nUTI\nKotak Mahindra\nZerodha\nInvesco\nNavi\nPGIM\nMutual Funds Categories\nBest MidCap Mutual funds\nBest Sectoral Mutual funds\nBest Aggressive Hybrid Mutual funds\nQuant Small Cap Fund\nSBI Magnum Children's Benefit Fund\nUTI Nifty 50 Index Fund\nJM Flexicap Fund\nHSBC Small Cap Fund\nFranklin India Multi Cap Fund\nICICI Prudential\nLIC\nCanara Robeco\nWhiteoak\nFranklin Templeton\nNJ\nJM\n360 One\nInternational\nSilver\nMidcap\nLiquid\nDebt\nIndex\nBank Nifty\nNifty IT\nEquity\nNifty 50\nNifty Metal\nNifty Auto\nCommodity\nNifty Next 50\nHealthcare\nGroww\nGold\nSensex\nDefence\nGroww Arbitrage Fund\nGroww ELSS Tax Saver Fund\nGroww Banking & Financial Services Fund\nGroww Gold ETF FOF\nGroww Gold ETF\nGroww Short Duration Fund\nGroww Aggressive Hybrid Fund\nGroww Nifty Smallcap 250 Index Fund\nGroww Multicap Fund\nGroww Nifty India Defence ETF\nGroww Liquid Fund\nGroww Dynamic Bond Fund\nGroww Nifty Non Cyclical Consumer Index Fund\nGroww Nifty India Railways PSU Index Fund\nGroww Nifty India Railways ETF\nGroww Large Cap Fund\nGroww Overnight Fund\nGroww Nifty EV & New Age Automotive ETF FoF\nGroww Nifty 200 ETF FoF\nGroww Value Fund\nGroww Nifty Total Market Index Fund\nGroww Nifty India Defence ETF FoF\nGroww Silver ETF\nSIP Calculator\nBrokerage Calculator\nRD Calculator\nHRA Calculator\nHome Loan EMI Calculator\nLumpsum Calculator\nMargin Calculator\nFD Calculator\nSalary Calculator\nROI Calculator\nSWP Calculator\nStock Average Calculator\nEPF Calc"
+  },
+  {
+    "chunk_id": "1191f086-72e8-40d9-99e4-e193dbd310b1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "fund_slug": "hdfc_mid_cap",
+    "scraped_at": "2026-11-01T09:55:31.662494+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Mid Cap]\nDefence ETF FoF\nGroww Silver ETF\nSIP Calculator\nBrokerage Calculator\nRD Calculator\nHRA Calculator\nHome Loan EMI Calculator\nLumpsum Calculator\nMargin Calculator\nFD Calculator\nSalary Calculator\nROI Calculator\nSWP Calculator\nStock Average Calculator\nEPF Calculator\nTDS Calculator\nMF Calculator\nSSY Calculator\nIncome Tax Calculator\nEMI Calculator\nStep-Up SIP Calculator\nPPF Calculator\nGST Calculator\nCar Loan EMI Calculator\nWhat is IPO?\nHow to Apply for an IPO\nOpen IPOs\nWhat is Grey Market Premium?\nUpcoming IPOs\nMainboard IPOs\nClosed IPOs\nSME IPOs\nIPO Subscription Status\nIPO Allotment Status\nNFO\nPricing\nTrust & Safety\nGroww Digest\nMinor Demat Account\nIntraday\nBlog\nInvestor Relations\nInvest in Gold\nCorporate Bonds\nMedia & Press\nGold Rates\nInvest in Silver\nHUF Demat Account\nCareers\nSilver Rates\nSitemap\nAbout Us\nHelp & Support\nGlossary\nNRI Demat Account\nShow More\nOthers:\nNSE\nBSE\nMCX\nTerms and Conditions\nPolicies and Procedures\nRegulatory & Other Info\nPrivacy Policy\nDisclosure\nSMART ODR\nDownload Forms\nInformation Security Practices\nInvestor Charter and Grievance\nBug Bounty\nGroww Pay - Terms of use\nGroww Pay - Privacy policy\nGroww IFSC\nMutual Funds\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers\nStocks\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers"
+  }
+]

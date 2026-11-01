@@ -1,0 +1,25 @@
+data_sources:
+  urls:
+    - url: https://groww.in/mutual-funds/amc/hdfc-mutual-funds
+      slug: hdfc_amc_overview
+    - url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+      slug: hdfc_large_cap
+    - url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+      slug: hdfc_flexi_cap
+    - url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+      slug: hdfc_elss
+    - url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+      slug: hdfc_mid_cap
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+
+vector_db:
+  provider: "chromadb"
+  collection_name: "hdfc_mf_faq"
+  persist_directory: "./chroma_store"
+  top_k: 8
+
+chunking:
+  chunk_size: 512       # tokens
+  chunk_overlap: 64

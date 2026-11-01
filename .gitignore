@@ -1,0 +1,22 @@
+# Secrets & Environment variables
+.env
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Chroma vector database
+chroma_store/
+
+# Outputs / temp files
+outputs/
+*.log
+.DS_Store

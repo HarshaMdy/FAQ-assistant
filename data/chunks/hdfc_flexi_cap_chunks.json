@@ -1,0 +1,1053 @@
+[
+  {
+    "chunk_id": "7e74d73e-68d5-49ff-8794-afd38908414a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Scheme Name: HDFC Flexi Cap Direct Plan Growth",
+    "metric_key": "Scheme Name"
+  },
+  {
+    "chunk_id": "081fb8a5-e8ef-4e27-bd49-3c8fdedb1e5c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Expense Ratio: 0.75%",
+    "metric_key": "Expense Ratio"
+  },
+  {
+    "chunk_id": "2d9f2893-9bbc-4035-ab48-1195afdda2b6",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Minimum SIP: ₹100",
+    "metric_key": "Minimum SIP"
+  },
+  {
+    "chunk_id": "dad3bb76-5b1e-4f31-bb9f-095989c05ad8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Minimum Investment Amount: ₹100",
+    "metric_key": "Minimum Investment Amount"
+  },
+  {
+    "chunk_id": "2750d308-936e-4b8b-89c4-42ff9520f03c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Exit Load: Exit load of 1% if redeemed within 1 year",
+    "metric_key": "Exit Load"
+  },
+  {
+    "chunk_id": "310443c1-1bcd-4251-bd88-b0a9d0b4faa7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Benchmark Index: NIFTY 500 Total Return Index",
+    "metric_key": "Benchmark Index"
+  },
+  {
+    "chunk_id": "bae92133-f299-452a-9231-c91961b566f3",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Category: Equity",
+    "metric_key": "Category"
+  },
+  {
+    "chunk_id": "553cdba3-6503-4822-95cd-6d5522f051eb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Fund Manager: Prashant Jain",
+    "metric_key": "Fund Manager"
+  },
+  {
+    "chunk_id": "bbe0bfe7-77ad-4130-822c-a641a8d57ddb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | AUM (Fund Size): ₹108546.98 Cr",
+    "metric_key": "AUM (Fund Size)"
+  },
+  {
+    "chunk_id": "35869e4c-393b-445e-9b7c-4b269e9f3b3f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Groww Rating: 5 / 5",
+    "metric_key": "Groww Rating"
+  },
+  {
+    "chunk_id": "48396049-d410-4e07-9b36-b0ebc29286f9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Statement Download: To download account statement or capital gains statement: Log into Groww, navigate to Profile > Reports > Mutual Funds > Capital Gains Statement.",
+    "metric_key": "Statement Download"
+  },
+  {
+    "chunk_id": "f021ae05-3315-421b-b866-2a4c75bc5c66",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Over the past: Total investment | Would've become | Historic returns | Returns",
+    "metric_key": "Over the past"
+  },
+  {
+    "chunk_id": "ab2bad5a-4844-4d21-b008-370b9f6d8a48",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | 1 year: ₹60,000 | ₹59,501 |  | -0.83%",
+    "metric_key": "1 year"
+  },
+  {
+    "chunk_id": "0e570adf-3507-45b1-a8a0-fd7944397324",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | 3 years: ₹1,80,000 | ₹1,95,908 |  | +8.84%",
+    "metric_key": "3 years"
+  },
+  {
+    "chunk_id": "120d3e3e-0df9-4572-8df7-a0730fa47a7c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | 5 years: ₹3,00,000 | ₹4,15,339 |  | +38.45%",
+    "metric_key": "5 years"
+  },
+  {
+    "chunk_id": "ed78f27e-bee2-4b25-9fdc-3079d67fcfcb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | 10 years: ₹6,00,000 | ₹14,03,706 |  | +133.95%",
+    "metric_key": "10 years"
+  },
+  {
+    "chunk_id": "c77a1269-02e0-459e-abdf-31c21f601571",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Name: Sector | Instruments | Assets",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "cbfad2d7-5026-4f23-bd3c-9eed783b9772",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | ICICI Bank Ltd: Financial | Equity | 8.80%",
+    "metric_key": "ICICI Bank Ltd"
+  },
+  {
+    "chunk_id": "5344b2b6-ce7a-413b-a9cc-d4355aa2a867",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Axis Bank Ltd: Financial | Equity | 6.11%",
+    "metric_key": "Axis Bank Ltd"
+  },
+  {
+    "chunk_id": "a477c2eb-00b8-42f3-919e-cf10bb1a4a14",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | HDFC Bank Ltd: Financial | Equity | 6.03%",
+    "metric_key": "HDFC Bank Ltd"
+  },
+  {
+    "chunk_id": "0c495c59-933c-4b9a-86c1-7be40bf08311",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | State Bank of India: Financial | Equity | 3.94%",
+    "metric_key": "State Bank of India"
+  },
+  {
+    "chunk_id": "d91edc27-9e0e-4ede-b63f-3b541536e9e8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Zomato Ltd: Technology | Equity | 3.46%",
+    "metric_key": "Zomato Ltd"
+  },
+  {
+    "chunk_id": "ab475eb0-45d3-4422-a715-6573257217f9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Kotak Mahindra Bank Ltd: Financial | Equity | 3.40%",
+    "metric_key": "Kotak Mahindra Bank Ltd"
+  },
+  {
+    "chunk_id": "566aa8a0-ba30-45db-aabb-0af9f578a0b9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | SBI Life Insurance Company Ltd: Financial | Equity | 3.25%",
+    "metric_key": "SBI Life Insurance Company Ltd"
+  },
+  {
+    "chunk_id": "4a868d6b-032e-434c-a057-689fa4bfe1b8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Larsen & Toubro Ltd: Industrials | Equity | 3.08%",
+    "metric_key": "Larsen & Toubro Ltd"
+  },
+  {
+    "chunk_id": "83bc1ff7-2f10-45e2-a676-325f6b3e8765",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Interglobe Aviation Ltd: Industrials | Equity | 2.99%",
+    "metric_key": "Interglobe Aviation Ltd"
+  },
+  {
+    "chunk_id": "3be89345-2b95-433e-b930-4df96fb0b45c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Repo: Unspecified | Repo | 2.81%",
+    "metric_key": "Repo"
+  },
+  {
+    "chunk_id": "fbfc141b-79fc-40a3-9a01-19fe26f226cf",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Bharti Airtel Ltd: Technology | Equity | 2.62%",
+    "metric_key": "Bharti Airtel Ltd"
+  },
+  {
+    "chunk_id": "26045ce4-e2a1-4ff4-9fd0-5e6da4b6434a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Maruti Suzuki India Ltd: Consumer Discretionary | Equity | 2.57%",
+    "metric_key": "Maruti Suzuki India Ltd"
+  },
+  {
+    "chunk_id": "47aa7f9a-e9a2-4738-97bc-b3209e4636b9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Cipla Ltd: Healthcare | Equity | 2.47%",
+    "metric_key": "Cipla Ltd"
+  },
+  {
+    "chunk_id": "9fb80a3f-7484-43ed-afdb-2831d934cd95",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | HCL Technologies Ltd: Technology | Equity | 2.44%",
+    "metric_key": "HCL Technologies Ltd"
+  },
+  {
+    "chunk_id": "d1a89ba7-6379-46d0-a8cf-db991d386fff",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Eicher Motors Ltd: Consumer Discretionary | Equity | 2.30%",
+    "metric_key": "Eicher Motors Ltd"
+  },
+  {
+    "chunk_id": "727c5af5-97f5-418e-9d03-8b185b330183",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Power Grid Corporation of India Ltd: Energy & Utilities | Equity | 2.11%",
+    "metric_key": "Power Grid Corporation of India Ltd"
+  },
+  {
+    "chunk_id": "7772d28f-744d-48f3-847a-890e231487b1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Nexus Select Trust: Industrials | Real Estate Investment Trusts | 1.70%",
+    "metric_key": "Nexus Select Trust"
+  },
+  {
+    "chunk_id": "eb3d0dc5-20d7-44eb-a150-f6594e3dab4b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Hyundai Motor India Ltd.: Consumer Discretionary | Equity | 1.68%",
+    "metric_key": "Hyundai Motor India Ltd."
+  },
+  {
+    "chunk_id": "0caeb14d-679a-4e04-bcd5-d425aece3da9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Divi's Laboratories Ltd: Healthcare | Equity | 1.62%",
+    "metric_key": "Divi's Laboratories Ltd"
+  },
+  {
+    "chunk_id": "61d2f2f9-001b-4803-b315-21e8dfc6c7c7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Max Healthcare Institute Ltd: Healthcare | Equity | 1.46%",
+    "metric_key": "Max Healthcare Institute Ltd"
+  },
+  {
+    "chunk_id": "e042a2df-1428-4822-8396-1e3beb9f16ae",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | JSW Steel Ltd: Materials | Equity | 1.45%",
+    "metric_key": "JSW Steel Ltd"
+  },
+  {
+    "chunk_id": "000f968e-db86-4a03-ac29-3535d87685da",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Reliance Industries Ltd: Energy & Utilities | Equity | 1.40%",
+    "metric_key": "Reliance Industries Ltd"
+  },
+  {
+    "chunk_id": "566cb42b-6a4f-4aa5-b0b3-d5a687878702",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Piramal Pharma Ltd: Healthcare | Equity | 1.37%",
+    "metric_key": "Piramal Pharma Ltd"
+  },
+  {
+    "chunk_id": "aa33ccd0-9463-473c-a610-f2147d7606ed",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Persistent Systems Ltd: Technology | Equity | 1.32%",
+    "metric_key": "Persistent Systems Ltd"
+  },
+  {
+    "chunk_id": "904063b2-4680-4249-9832-aafdda6d5492",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Bosch Ltd: Consumer Discretionary | Equity | 1.30%",
+    "metric_key": "Bosch Ltd"
+  },
+  {
+    "chunk_id": "e2d5c3d9-874b-4caa-ac85-4499b7857105",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | PB Fintech Ltd: Financial | Equity | 1.12%",
+    "metric_key": "PB Fintech Ltd"
+  },
+  {
+    "chunk_id": "8189b544-2578-4151-b310-b1324f54a610",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | TVS Motor Company Ltd: Consumer Discretionary | Equity | 0.96%",
+    "metric_key": "TVS Motor Company Ltd"
+  },
+  {
+    "chunk_id": "9cbad08e-9e32-493e-b4d1-1e648585b3ac",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Varroc Engineering Ltd: Consumer Discretionary | Equity | 0.92%",
+    "metric_key": "Varroc Engineering Ltd"
+  },
+  {
+    "chunk_id": "9c9197e7-43f6-408c-a191-f6a184c9be9a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Lupin Ltd: Healthcare | Equity | 0.91%",
+    "metric_key": "Lupin Ltd"
+  },
+  {
+    "chunk_id": "069c708a-fadd-45f2-9027-b278e809493d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Tata Steel Ltd: Materials | Equity | 0.88%",
+    "metric_key": "Tata Steel Ltd"
+  },
+  {
+    "chunk_id": "010800ab-b3d1-418a-ab16-0a6e210ed430",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Ultratech Cement Ltd: Materials | Equity | 0.87%",
+    "metric_key": "Ultratech Cement Ltd"
+  },
+  {
+    "chunk_id": "3d2c2d6f-015f-48b0-924a-a16f1bb04b9a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Lenskart Solutions Ltd.: Consumer Discretionary | Equity | 0.85%",
+    "metric_key": "Lenskart Solutions Ltd."
+  },
+  {
+    "chunk_id": "5d42ecb2-3d03-45c6-bbc2-2b20d8b255ea",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Aster DM Healthcare Ltd: Healthcare | Equity | 0.79%",
+    "metric_key": "Aster DM Healthcare Ltd"
+  },
+  {
+    "chunk_id": "000d5b83-3b19-46ba-bb46-f00e7b7d3a7d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Apollo Hospitals Enterprise Ltd: Healthcare | Equity | 0.79%",
+    "metric_key": "Apollo Hospitals Enterprise Ltd"
+  },
+  {
+    "chunk_id": "20aab284-d8bc-47bc-adeb-50ee8edb94ca",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Dr. Lal Pathlabs Ltd: Healthcare | Equity | 0.76%",
+    "metric_key": "Dr. Lal Pathlabs Ltd"
+  },
+  {
+    "chunk_id": "3b8e698f-d1db-44a1-bd1a-64aa4cd08cc5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | United Spirits Ltd: Consumer Staples | Equity | 0.72%",
+    "metric_key": "United Spirits Ltd"
+  },
+  {
+    "chunk_id": "d4c662a9-0ff2-42fb-ae17-45f665444181",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | FSN E-Commerce Ventures Ltd: Consumer Discretionary | Equity | 0.72%",
+    "metric_key": "FSN E-Commerce Ventures Ltd"
+  },
+  {
+    "chunk_id": "1dcfb6ce-d8ad-4147-b959-0e203ac6cc87",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Britannia Industries Ltd: Consumer Staples | Equity | 0.67%",
+    "metric_key": "Britannia Industries Ltd"
+  },
+  {
+    "chunk_id": "ab8c436c-720a-4371-a337-ca5ce054e6e0",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | BSE Ltd: Financial | Equity | 0.65%",
+    "metric_key": "BSE Ltd"
+  },
+  {
+    "chunk_id": "8d16273e-66ee-4aa8-894e-1efd72481dd5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | ACME Solar Holdings Ltd.: Energy & Utilities | Equity | 0.64%",
+    "metric_key": "ACME Solar Holdings Ltd."
+  },
+  {
+    "chunk_id": "550783f8-15d1-4624-9755-695da725c005",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Bharat Electronics Ltd: Industrials | Equity | 0.62%",
+    "metric_key": "Bharat Electronics Ltd"
+  },
+  {
+    "chunk_id": "b252eb72-c7e6-488d-b92d-2b65217cb52f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | JSW Infrastructure Ltd: Industrials | Equity | 0.61%",
+    "metric_key": "JSW Infrastructure Ltd"
+  },
+  {
+    "chunk_id": "a91cb1e5-c9ab-4842-a82e-2f7476b6f2ab",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Anthem Biosciences Ltd.: Healthcare | Equity | 0.59%",
+    "metric_key": "Anthem Biosciences Ltd."
+  },
+  {
+    "chunk_id": "bfbc63b3-d283-4801-88a9-2b0505c50f79",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Embassy Office Parks REIT: Real Estate | Real Estate Investment Trusts | 0.59%",
+    "metric_key": "Embassy Office Parks REIT"
+  },
+  {
+    "chunk_id": "f5449b2f-0db7-4c62-a82c-13d4f7198ef8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Kalpataru Power Transmission Ltd: Industrials | Equity | 0.58%",
+    "metric_key": "Kalpataru Power Transmission Ltd"
+  },
+  {
+    "chunk_id": "8d1d06cc-b397-45d9-9d13-60e0c5565a9c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Neuland Laboratories Ltd: Healthcare | Equity | 0.55%",
+    "metric_key": "Neuland Laboratories Ltd"
+  },
+  {
+    "chunk_id": "d4b3bdd1-8de7-45db-be31-cb2130b25dde",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | NUVOCO Vistas Corp Ltd: Materials | Equity | 0.55%",
+    "metric_key": "NUVOCO Vistas Corp Ltd"
+  },
+  {
+    "chunk_id": "519c1092-f370-4116-9130-8c20b0c1c9d1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Vishal Mega Mart Ltd.: Consumer Staples | Equity | 0.54%",
+    "metric_key": "Vishal Mega Mart Ltd."
+  },
+  {
+    "chunk_id": "2ad965c3-944d-4724-8d3b-ee722adf586a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-: Technology | Equity | 0.54%",
+    "metric_key": "HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-"
+  },
+  {
+    "chunk_id": "7c0fa26c-39cb-48a5-882d-1c8cb4d07799",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Craftsman Automation Ltd: Consumer Discretionary | Equity | 0.54%",
+    "metric_key": "Craftsman Automation Ltd"
+  },
+  {
+    "chunk_id": "c3ab8843-cb23-444e-a300-558091a8e4b5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Adani Enterprises Ltd: Materials | Equity | 0.54%",
+    "metric_key": "Adani Enterprises Ltd"
+  },
+  {
+    "chunk_id": "c03e2c30-ee63-45fa-81b6-88221137ba70",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | ICICI Prudential Asset Management Company Ltd.: Financial | Equity | 0.50%",
+    "metric_key": "ICICI Prudential Asset Management Company Ltd."
+  },
+  {
+    "chunk_id": "79203792-ee39-4e31-97e3-9cec7a4a55dd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Bajaj Auto Ltd: Consumer Discretionary | Equity | 0.48%",
+    "metric_key": "Bajaj Auto Ltd"
+  },
+  {
+    "chunk_id": "ff8fa322-2c77-4268-92fc-7f30cca1178c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Infosys Ltd: Technology | Equity | 0.46%",
+    "metric_key": "Infosys Ltd"
+  },
+  {
+    "chunk_id": "cbd6c50a-2a0a-414f-9f43-8c87f52dab98",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Prestige Estates Projects Ltd: Real Estate | Equity | 0.46%",
+    "metric_key": "Prestige Estates Projects Ltd"
+  },
+  {
+    "chunk_id": "9e369d3b-3d7a-4afa-bf32-e00dd0abde38",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Havells India Ltd: Consumer Discretionary | Equity | 0.46%",
+    "metric_key": "Havells India Ltd"
+  },
+  {
+    "chunk_id": "63986d1a-4a79-47b5-9335-71a6bd9716ef",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Nippon Life India Asset Management Ltd: Financial | Equity | 0.46%",
+    "metric_key": "Nippon Life India Asset Management Ltd"
+  },
+  {
+    "chunk_id": "689c3ec0-97e3-471f-82d4-b529d723c9bf",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | CORONA Remedies Ltd.: Healthcare | Equity | 0.45%",
+    "metric_key": "CORONA Remedies Ltd."
+  },
+  {
+    "chunk_id": "d2721c6a-6d88-48ac-9049-2d2eac7a7999",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Ashok Leyland Ltd: Industrials | Equity | 0.42%",
+    "metric_key": "Ashok Leyland Ltd"
+  },
+  {
+    "chunk_id": "6e2f7edf-022e-4286-ae28-c261c9306306",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | SBI Funds Management Ltd: Financial | Equity | 0.39%",
+    "metric_key": "SBI Funds Management Ltd"
+  },
+  {
+    "chunk_id": "1a215590-d766-4dad-a097-d92003dff309",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Sapphire Foods India Ltd: Consumer Discretionary | Equity | 0.39%",
+    "metric_key": "Sapphire Foods India Ltd"
+  },
+  {
+    "chunk_id": "c542c5a5-3cec-43d9-970e-a3ac7bc2c270",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Mahindra CIE Automotive Ltd: Consumer Discretionary | Equity | 0.36%",
+    "metric_key": "Mahindra CIE Automotive Ltd"
+  },
+  {
+    "chunk_id": "2942eb1b-6219-401b-9a33-4ee32a7e8e08",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Dixon Technologies (India) Ltd: Consumer Discretionary | Equity | 0.32%",
+    "metric_key": "Dixon Technologies (India) Ltd"
+  },
+  {
+    "chunk_id": "d59be105-b235-44ba-89ff-8fff8f6ee71c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Metropolis Healthcare Ltd: Healthcare | Equity | 0.32%",
+    "metric_key": "Metropolis Healthcare Ltd"
+  },
+  {
+    "chunk_id": "6e140634-f584-41dd-b71a-b4e78a64bcb2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | The Ramco Cements Ltd: Materials | Equity | 0.31%",
+    "metric_key": "The Ramco Cements Ltd"
+  },
+  {
+    "chunk_id": "ceb2b0c6-3462-443e-b57b-1c915ef4ad3a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Escorts Kubota Ltd: Industrials | Equity | 0.30%",
+    "metric_key": "Escorts Kubota Ltd"
+  },
+  {
+    "chunk_id": "f9ded9ae-cd53-4f1c-ace3-5fc0de85cf08",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Life Insurance Corporation of India: Financial | Equity | 0.28%",
+    "metric_key": "Life Insurance Corporation of India"
+  },
+  {
+    "chunk_id": "83c3bf89-3b47-48b7-8c73-ab74d128e3fe",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Restaurant Brands Asia Ltd: Consumer Discretionary | Equity | 0.28%",
+    "metric_key": "Restaurant Brands Asia Ltd"
+  },
+  {
+    "chunk_id": "c44a0fc4-0486-4e61-8fd2-08e4f8567d2f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Crompton Greaves Consumer Electricals Ltd: Consumer Discretionary | Equity | 0.28%",
+    "metric_key": "Crompton Greaves Consumer Electricals Ltd"
+  },
+  {
+    "chunk_id": "af1eace9-9ca3-4ecc-9f7a-91c4a78c72b3",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Molbio Diagnostics Ltd.: Healthcare | Equity | 0.28%",
+    "metric_key": "Molbio Diagnostics Ltd."
+  },
+  {
+    "chunk_id": "536861af-2be4-4f61-a7b4-ac6659032ba1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100: Entities | GOI Securities | 0.27%",
+    "metric_key": "GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100"
+  },
+  {
+    "chunk_id": "dbe827f9-e614-4644-a0e1-4b927ea2ace7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Oil & Natural Gas Corporation Ltd: Energy & Utilities | Equity | 0.27%",
+    "metric_key": "Oil & Natural Gas Corporation Ltd"
+  },
+  {
+    "chunk_id": "3f1cd1b2-fee7-4b30-837f-db7674c607c2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Apar Industries Ltd: Diversified | Equity | 0.27%",
+    "metric_key": "Apar Industries Ltd"
+  },
+  {
+    "chunk_id": "187eb754-fa5e-4cf1-86cc-d0139b889606",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Swiggy Ltd.: Technology | Equity | 0.25%",
+    "metric_key": "Swiggy Ltd."
+  },
+  {
+    "chunk_id": "6ba4afce-22da-4cc1-8c83-0c797446134c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Ather Energy Ltd.: Consumer Discretionary | Equity | 0.25%",
+    "metric_key": "Ather Energy Ltd."
+  },
+  {
+    "chunk_id": "469f4e18-9a0b-42ec-a9bb-1d1e612c4424",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Biocon Ltd: Healthcare | Equity | 0.25%",
+    "metric_key": "Biocon Ltd"
+  },
+  {
+    "chunk_id": "a53754ad-5edd-4551-8197-41605e1f13dd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | ABB India Ltd: Industrials | Equity | 0.24%",
+    "metric_key": "ABB India Ltd"
+  },
+  {
+    "chunk_id": "8d96f0e3-51ef-441f-9fd8-73534387b26d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | JK Lakshmi Cement Ltd: Materials | Equity | 0.23%",
+    "metric_key": "JK Lakshmi Cement Ltd"
+  },
+  {
+    "chunk_id": "6fff8816-cf35-4e3e-b768-31f56b7b626b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Hindustan Petroleum Corporation Ltd: Energy & Utilities | Equity | 0.23%",
+    "metric_key": "Hindustan Petroleum Corporation Ltd"
+  },
+  {
+    "chunk_id": "3a6c51bd-e687-4892-9e88-e412a64501bd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Diamond Power Infrastructure Ltd: Industrials | Equity | 0.23%",
+    "metric_key": "Diamond Power Infrastructure Ltd"
+  },
+  {
+    "chunk_id": "5b0c5231-e86d-4e9e-92e5-5da872e7f372",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Rubicon Research Ltd.: Healthcare | Equity | 0.20%",
+    "metric_key": "Rubicon Research Ltd."
+  },
+  {
+    "chunk_id": "def46e02-b343-48d2-93aa-545d2fbdcc45",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Mphasis Ltd: Technology | Equity | 0.17%",
+    "metric_key": "Mphasis Ltd"
+  },
+  {
+    "chunk_id": "d735d3f7-1fc2-4e73-9a51-764163b2a7f4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100: Entities | GOI Securities | 0.10%",
+    "metric_key": "GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100"
+  },
+  {
+    "chunk_id": "800254d5-10d7-4bf9-9ea4-485bd68a0491",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Tenneco Clean Air India Ltd.: Consumer Discretionary | Equity | 0.10%",
+    "metric_key": "Tenneco Clean Air India Ltd."
+  },
+  {
+    "chunk_id": "20dd866b-4f19-444b-9c03-b6b148e16ee4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | 7.37% GOI CG 23-10-2028: Entities | GOI Securities | 0.09%",
+    "metric_key": "7.37% GOI CG 23-10-2028"
+  },
+  {
+    "chunk_id": "86521bbd-9d3c-457f-9332-c9e3d7875633",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Net Payables: Unspecified | Net Payables | -0.53%",
+    "metric_key": "Net Payables"
+  },
+  {
+    "chunk_id": "c4a37ef8-30c3-4dc2-ab46-f2a976f7f336",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Name: 3Y | 5Y | 10Y | All",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "c5575d4c-6a9a-4ff8-ab9c-32c567a072e4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Fund returns: +15.8% | +15.5% | +15.3% | +15.5%",
+    "metric_key": "Fund returns"
+  },
+  {
+    "chunk_id": "fd5baa85-3272-4e0b-b86a-cb92b12af0d9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Category average (Equity Flexi Cap): +11.6% | +9.8% | +12.9% | +13.9%",
+    "metric_key": "Category average (Equity Flexi Cap)"
+  },
+  {
+    "chunk_id": "2d161dd1-d778-42ae-bce3-d1ce2e12a1a2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Flexi Cap | Rank (Equity Flexi Cap): 10 | 3 | 2 | --",
+    "metric_key": "Rank (Equity Flexi Cap)"
+  },
+  {
+    "chunk_id": "0b04afbb-3dfc-46ce-b5f9-129e2628a4dd",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nHDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio\nStocks\nInvest in Stocks\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nIntraday\nMonitor top intraday performers in real time\nETF Screener\nGet the best of Mutual Funds and flexibility of Stocks\nIPO\nTrack upcoming and ongoing IPOs\nMTFs\nBuy now, pay later\nStock Screener\nFilter based on RSI, PE ratio and more\nStock Events\nDividends, bonus, buybacks and more\nDemat Account\nBegin your stock market journey\nShare Market Today\nLive news updates from stock market\nF&O\nTrade in Futures & Options\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nIndices\nTrack markets across the globe\nTerminal\nTrack charts, orders, positions, watchlists in one place\nOption chain\nAnalyse chains, view payoffs, create baskets\nPledge\nGet extra balance for trading\nCommodities\nTrade in Crude Oil, Gold, Silver and more\nAPI trading\nSet up and execute trades through our API\nMutual Funds\nInvest in Mutual Funds\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nMutual Fund Houses\nKnow about AMCs, funds, fund managers\nNFO’s\nTrack all active NFOs in one place\nMutual Funds by Groww\nMutual funds by Groww designed for your investment goals\nStart SIP\nBuild long-term wealth through disciplined monthly investing.\nMutual Funds screener\nFilter funds based on risk, fund size and more\nTrack Funds\nImport funds and track all investments in a single place\nCompare Funds\nMore\nSIP calculator\nEstimate returns on a SIP\nBrokerage calculator\nEstimate charges for your trade/investment\nMargin calculator\nEstimate balance needed to buy/sell a stock\nSWP calculator\nReturns on your systematic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+15.79\n%\n3Y annualised\n+0.32\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹2,187.57\nMin. for SIP\n₹100\nFund size (AUM)\n₹1,08,546.98 Cr\nExpense rati"
+  },
+  {
+    "chunk_id": "f8dbe693-b172-4c22-9d5a-5c7b18a1aa86",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nmatic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+15.79\n%\n3Y annualised\n+0.32\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹2,187.57\nMin. for SIP\n₹100\nFund size (AUM)\n₹1,08,546.98 Cr\nExpense ratio\n0.75%\nRating\n5\nReturn calculator\nMonthly SIP\nOne time\nMonthly investment\n₹5,000\nOver the past\nTotal investment\nWould've become\nHistoric returns\nReturns\n1 year\n₹60,000\n₹59,501\n-0.83\n%\n3 years\n₹1,80,000\n₹1,95,908\n+\n8.84\n%\n5 years\n₹3,00,000\n₹4,15,339\n+\n38.45\n%\n10 years\n₹6,00,000\n₹14,03,706\n+\n133.95\n%\nHoldings (\n86\n)\nName\nSector\nInstruments\nAssets\nICICI Bank Ltd\nFinancial\nEquity\n8.80%\nAxis Bank Ltd\nFinancial\nEquity\n6.11%\nHDFC Bank Ltd\nFinancial\nEquity\n6.03%\nState Bank of India\nFinancial\nEquity\n3.94%\nZomato Ltd\nTechnology\nEquity\n3.46%\nKotak Mahindra Bank Ltd\nFinancial\nEquity\n3.40%\nSBI Life Insurance Company Ltd\nFinancial\nEquity\n3.25%\nLarsen & Toubro Ltd\nIndustrials\nEquity\n3.08%\nInterglobe Aviation Ltd\nIndustrials\nEquity\n2.99%\nRepo\nUnspecified\nRepo\n2.81%\nBharti Airtel Ltd\nTechnology\nEquity\n2.62%\nMaruti Suzuki India Ltd\nConsumer Discretionary\nEquity\n2.57%\nCipla Ltd\nHealthcare\nEquity\n2.47%\nHCL Technologies Ltd\nTechnology\nEquity\n2.44%\nEicher Motors Ltd\nConsumer Discretionary\nEquity\n2.30%\nPower Grid Corporation of India Ltd\nEnergy & Utilities\nEquity\n2.11%\nNexus Select Trust\nIndustrials\nReal Estate Investment Trusts\n1.70%\nHyundai Motor India Ltd.\nConsumer Discretionary\nEquity\n1.68%\nDivi's Laboratories Ltd\nHealthcare\nEquity\n1.62%\nMax Healthcare Institute Ltd\nHealthcare\nEquity\n1.46%\nJSW Steel Ltd\nMaterials\nEquity\n1.45%\nReliance Industries Ltd\nEnergy & Utilities\nEquity\n1.40%\nPiramal Pharma Ltd\nHealthcare\nEquity\n1.37%\nPersistent Systems Ltd\nTechnology\nEquity\n1.32%\nBosch Ltd\nConsumer Discretionary\nEquity\n1.30%\nPB Fintech Ltd\nFinancial\nEquity\n1.12%\nTVS Motor Company Ltd\nConsumer Discretionary\nEquity\n0.96%\nVarroc Engineering Ltd\nConsumer Discretionary\nEquity\n0.92%\nLupin Ltd\nHealthcare\nEquity\n0.91%\nTata Steel Ltd\nMaterials\nEquity\n0.88%\nUltratech Cement Ltd\nMaterials\nEquity\n0.87%"
+  },
+  {
+    "chunk_id": "6e04e24e-ee4e-46c8-a4f6-c7b3ca207db8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nFinancial\nEquity\n1.12%\nTVS Motor Company Ltd\nConsumer Discretionary\nEquity\n0.96%\nVarroc Engineering Ltd\nConsumer Discretionary\nEquity\n0.92%\nLupin Ltd\nHealthcare\nEquity\n0.91%\nTata Steel Ltd\nMaterials\nEquity\n0.88%\nUltratech Cement Ltd\nMaterials\nEquity\n0.87%\nLenskart Solutions Ltd.\nConsumer Discretionary\nEquity\n0.85%\nAster DM Healthcare Ltd\nHealthcare\nEquity\n0.79%\nApollo Hospitals Enterprise Ltd\nHealthcare\nEquity\n0.79%\nDr. Lal Pathlabs Ltd\nHealthcare\nEquity\n0.76%\nUnited Spirits Ltd\nConsumer Staples\nEquity\n0.72%\nFSN E-Commerce Ventures Ltd\nConsumer Discretionary\nEquity\n0.72%\nBritannia Industries Ltd\nConsumer Staples\nEquity\n0.67%\nBSE Ltd\nFinancial\nEquity\n0.65%\nACME Solar Holdings Ltd.\nEnergy & Utilities\nEquity\n0.64%\nBharat Electronics Ltd\nIndustrials\nEquity\n0.62%\nJSW Infrastructure Ltd\nIndustrials\nEquity\n0.61%\nAnthem Biosciences Ltd.\nHealthcare\nEquity\n0.59%\nEmbassy Office Parks REIT\nReal Estate\nReal Estate Investment Trusts\n0.59%\nKalpataru Power Transmission Ltd\nIndustrials\nEquity\n0.58%\nNeuland Laboratories Ltd\nHealthcare\nEquity\n0.55%\nNUVOCO Vistas Corp Ltd\nMaterials\nEquity\n0.55%\nVishal Mega Mart Ltd.\nConsumer Staples\nEquity\n0.54%\nHEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-\nTechnology\nEquity\n0.54%\nCraftsman Automation Ltd\nConsumer Discretionary\nEquity\n0.54%\nAdani Enterprises Ltd\nMaterials\nEquity\n0.54%\nICICI Prudential Asset Management Company Ltd.\nFinancial\nEquity\n0.50%\nBajaj Auto Ltd\nConsumer Discretionary\nEquity\n0.48%\nInfosys Ltd\nTechnology\nEquity\n0.46%\nPrestige Estates Projects Ltd\nReal Estate\nEquity\n0.46%\nHavells India Ltd\nConsumer Discretionary\nEquity\n0.46%\nNippon Life India Asset Management Ltd\nFinancial\nEquity\n0.46%\nCORONA Remedies Ltd.\nHealthcare\nEquity\n0.45%\nAshok Leyland Ltd\nIndustrials\nEquity\n0.42%\nSBI Funds Management Ltd\nFinancial\nEquity\n0.39%\nSapphire Foods India Ltd\nConsumer Discretionary\nEquity\n0.39%\nMahindra CIE Automotive Ltd\nConsumer Discretionary\nEquity\n0.36%\nDixon Technologies (India) Ltd\nConsumer Discretionary\nEquity\n0.32%\nMetropolis Healthcare Ltd\nHealthcare\nEquity\n0.32%\nThe Ramco Cements Lt"
+  },
+  {
+    "chunk_id": "6920365d-ab36-4d55-8084-ce357f116d8c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nre Foods India Ltd\nConsumer Discretionary\nEquity\n0.39%\nMahindra CIE Automotive Ltd\nConsumer Discretionary\nEquity\n0.36%\nDixon Technologies (India) Ltd\nConsumer Discretionary\nEquity\n0.32%\nMetropolis Healthcare Ltd\nHealthcare\nEquity\n0.32%\nThe Ramco Cements Ltd\nMaterials\nEquity\n0.31%\nEscorts Kubota Ltd\nIndustrials\nEquity\n0.30%\nLife Insurance Corporation of India\nFinancial\nEquity\n0.28%\nRestaurant Brands Asia Ltd\nConsumer Discretionary\nEquity\n0.28%\nCrompton Greaves Consumer Electricals Ltd\nConsumer Discretionary\nEquity\n0.28%\nMolbio Diagnostics Ltd.\nHealthcare\nEquity\n0.28%\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100\nEntities\nGOI Securities\n0.27%\nOil & Natural Gas Corporation Ltd\nEnergy & Utilities\nEquity\n0.27%\nApar Industries Ltd\nDiversified\nEquity\n0.27%\nSwiggy Ltd.\nTechnology\nEquity\n0.25%\nAther Energy Ltd.\nConsumer Discretionary\nEquity\n0.25%\nBiocon Ltd\nHealthcare\nEquity\n0.25%\nABB India Ltd\nIndustrials\nEquity\n0.24%\nJK Lakshmi Cement Ltd\nMaterials\nEquity\n0.23%\nHindustan Petroleum Corporation Ltd\nEnergy & Utilities\nEquity\n0.23%\nDiamond Power Infrastructure Ltd\nIndustrials\nEquity\n0.23%\nRubicon Research Ltd.\nHealthcare\nEquity\n0.20%\nMphasis Ltd\nTechnology\nEquity\n0.17%\nGOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100\nEntities\nGOI Securities\n0.10%\nTenneco Clean Air India Ltd.\nConsumer Discretionary\nEquity\n0.10%\n7.37% GOI CG 23-10-2028\nEntities\nGOI Securities\n0.09%\nNet Payables\nUnspecified\nNet Payables\n-0.53%\nSee All\nMinimum investments\nMin. for 1st investment\n₹100\nMin. for 2nd investment\n₹100\nMin. for SIP\n₹100\nUnderstand terms\nAnnualised returns\nAverage of the yearly returns of a mutual fund over a given period.\nAbsolute returns\nThe total return of a mutual fund over a given period.\nReturns and rankings\nAnnualised returns\nAbsolute returns\nName\n3Y\n5Y\n10Y\nAll\nFund returns\n+15.8%\n+15.5%\n+15.3%\n+15.5%\nCategory average (\nEquity Flexi Cap\n)\n+11.6%\n+9.8%\n+12.9%\n+13.9%\nRank (\nEquity Flexi Cap\n)\n10\n3\n2\n--\nUnderstand terms\nExpense ratio\nA fee payable to a mutual fund house for managing your mutual fund investments.     It is"
+  },
+  {
+    "chunk_id": "99a93dfb-dce1-4736-a87e-51f113ae5c39",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nturns\n+15.8%\n+15.5%\n+15.3%\n+15.5%\nCategory average (\nEquity Flexi Cap\n)\n+11.6%\n+9.8%\n+12.9%\n+13.9%\nRank (\nEquity Flexi Cap\n)\n10\n3\n2\n--\nUnderstand terms\nExpense ratio\nA fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.\nTax\nA percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.\nExit load\nA fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.\nStamp duty\nA form of tax payable for the purchase or sale of an asset or security.\nExit Load\n01 Jan 2013\nExit load of 1% if redeemed within 1 year\nExit load, stamp duty and tax\nExit load\nExit load of 1% if redeemed within 1 year\nStamp duty on investment:\n0.005% (from July 1st, 2020)\nfrom July 1st 2020\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nCheck past data\nCompare similar funds\nName\n1Y\n3Y\nFund Size(Cr)\nITI Flexi Cap Fund Direct Growth\n+6.93%\n+18.29%\n1,588.28\nBank of India Flexi Cap Fund Direct Growth\n+2.37%\n+18.11%\n3,098.01\nHDFC Flexi Cap Direct Plan Growth\n-3.47%\n+15.79%\n1,08,546.98\nHSBC Flexi Cap Fund Direct Growth\n-1.06%\n+14.85%\n5,748.74\nFranklin India Flexi Cap Fund Direct Growth\n-8.33%\n+10.47%\n18,188.24\nCompare\nFund management\nDM\nDhruv Muchhal\nJun 2023\n- Present\nView details\nEducation\nMr. Dhruv has done B.Com, CA and CFA\nExperience\nPrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\nAlso manages these schemes\nHDFC Flexi Cap Direct Plan Growth\nHDFC Value Fund Direct Plan Growth\nHDFC Ultra S"
+  },
+  {
+    "chunk_id": "256e7862-c64b-44ba-b039-48225d0ea06b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nng HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\nAlso manages these schemes\nHDFC Flexi Cap Direct Plan Growth\nHDFC Value Fund Direct Plan Growth\nHDFC Ultra Short to Short Term Fund Direct Growth\nHDFC Focused Fund Direct Growth\nHDFC Floating Interest Rates Fund Direct Plan Growth\nHDFC Balanced Advantage Fund Direct Growth\nHDFC Dynamic Term Fund Direct Plan Growth\nHDFC Medium Term Fund Direct Growth\nHDFC Medium to Long Term Fund Direct Growth\nHDFC Infrastructure Fund Direct Growth\nHDFC Corporate Bond Fund Direct Plan Growth\nHDFC Conservative Hybrid Fund Direct Growth\nHDFC Mid Cap Fund Direct Growth\nHDFC Equity Savings Direct Plan Growth\nHDFC Multi Asset Allocation Fund Direct Growth\nHDFC Aggressive Hybrid Fund Direct Plan Growth\nHDFC Short Term Fund Direct Plan Growth\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nHDFC Large Cap Fund Direct Growth\nHDFC Credit Risk Fund Direct Growth\nHDFC Banking and PSU Debt Fund Direct Growth\nHDFC Arbitrage Fund Direct Growth\nHDFC Large & Mid Cap Fund Direct Growth\nHDFC Small Cap Fund Direct Growth\nHDFC Ultra Short Term Fund Direct Growth\nHDFC Liquid Direct Plan Growth\nHDFC Overnight Fund Direct Growth\nHDFC Money Market Fund Direct Growth\nHDFC Housing Opportunities Fund Direct Growth\nHDFC Banking & Financial Services Fund Direct Growth\nHDFC Multi Cap Fund Direct Growth\nHDFC Business Cycle Fund Direct Growth\nHDFC Long Term Fund Direct Growth\nHDFC MNC Fund Direct Growth\nHDFC Defence Fund Direct Growth\nHDFC Consumption Fund Direct Growth\nHDFC Transportation and Logistics Fund Direct Growth\nHDFC Technology Fund Direct Growth\nHDFC Pharma And Healthcare Fund Direct Growth\nHDFC Manufacturing Fund Direct Growth\nHDFC Children's Fund Direct Plan\nHDFC Innovation Fund Direct Growth\nAG\nAmit Ganatra\nFeb 2026\n- Present\nView details\nEducation\nMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.\nExperience\nPrior to joining the HDFC AMC, he"
+  },
+  {
+    "chunk_id": "175a1047-31cc-4a12-b629-553bd1a89c23",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nHDFC Innovation Fund Direct Growth\nAG\nAmit Ganatra\nFeb 2026\n- Present\nView details\nEducation\nMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.\nExperience\nPrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.\nAlso manages these schemes\nHDFC Flexi Cap Direct Plan Growth\nHDFC Focused Fund Direct Growth\nAbout\nHDFC Flexi Cap Direct Plan Growth\nHDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 30 Oct 2026 is ₹2,187.57.\nThe HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year\n;\nInvestment Objective\nThe scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.\nFund benchmark\nNIFTY 500 Total Return Index\nScheme Information Document(SID)\nFund house\nHDFC Mutual Fund\nRank (total assets)\n#2 in India\nTotal AUM\n₹9,34,075.66 Cr\nDate of Incorporation\n10 Dec 1999\nPhone\n022 – 66316333\nE-mail\n[email protected]\nWebsite\nhttp://www.hdfcfund.com\nLaunch Date\n10 Dec 1999\nAddress\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\nCustodian\nDeutsche Bank\nRegistrar & Transfer Agent\nCams\nEmail\n[email protected]\nWebsite\nwww.camsonline.com\nAddress\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\nHome\n>\nMutual Funds\n>\nHDFC Mutual Fund\n>\nHDFC Flexi Cap Direct Plan Growth\nVaishnavi Tech Park, South Tower, 3rd Floor\nSarjapur Main Road, Bellandur, Bengaluru – 560103\nKarnataka\nContact Us\nDownload the App\nGROWW\nAbout Us\nPricing\nBlog\nMedia & Press\nCareers\nHe"
+  },
+  {
+    "chunk_id": "5c203d02-6dfb-4464-af9f-99a2a0e43826",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\ne\n>\nMutual Funds\n>\nHDFC Mutual Fund\n>\nHDFC Flexi Cap Direct Plan Growth\nVaishnavi Tech Park, South Tower, 3rd Floor\nSarjapur Main Road, Bellandur, Bengaluru – 560103\nKarnataka\nContact Us\nDownload the App\nGROWW\nAbout Us\nPricing\nBlog\nMedia & Press\nCareers\nHelp & Support\nTrust & Safety\nInvestor Relations\nPRODUCTS\nStocks\nF&O\nMTF\nETF\nIPO\nMutual Funds\nCommodities\nGroww Terminal\n915 Terminal\nStock Screens\nAlgo Trading\nGroww Charts\nGroww Digest\nDemat Account\nGroww AMC\nPMS\nBonds\nCredit\n© 2016-\n2026\nGroww. All rights reserved.\nVersion:\n8.1.4\nShare Market\nIndices\nF&O\nMutual Funds\nETFs\nFunds By Groww\nCalculators\nIPO\nMiscellaneous\nTop Gainers Stocks\n52 Weeks High Stocks\nTata Motors\nNHPC\nITC\nWipro\nBSE\nNTPC\nTop Losers Stocks\n52 Weeks Low Stocks\nIREDA\nState Bank of India\nAdani Power\nCDSL\nCochin Shipyard\nSJVN\nMost Traded Stocks\nStocks Market Calender\nTata Steel\nTata Power\nBharat Heavy Electricals\nIndian Oil Corporation\nHUDCO\nSAIL\nStocks Feed\nSuzlon Energy\nZomato (Eternal)\nYes Bank\nInfosys\nNBCC\nIRCTC\nShare Market Live Update\nFII DII Activity\nIRFC\nBharat Electronics\nHDFC Bank\nVedanta\nReliance Power\nJaiprakash Power Ventures\nStocks Sectors\nNIFTY 50\nNIFTY Midcap 100\nNIFTY 100\nUS Tech 100\nNIFTY Realty\nNikkei index\nSENSEX\nNIFTY Smallcap 100\nNIFTY Auto\nDow Jones Futures\nNIFTY PSU Bank\nNIFTY FMCG\nNIFTY BANK\nNIFTY MIDCAP 150\nKOSPI Index\nDow Jones Index\nGift Nifty\nBSE BANKEX\nIndia VIX\nNIFTY Pharma\nHANG SENG Index\nBSE 100\nFTSE 100 Index\nS&P 500\nNIFTY NEXT 50\nNIFTY Metal\nDAX Index\nNIFTY Fin Service\nCAC Index\nNifty Pvt Bank\nNIFTY Bank Options\nSBI Options\nBajaj Finance Options\nAxis Bank Options\nHindustan Unilever Options\nNIFTY Bank Futures\nFinnifty Futures\nITC Futures\nICICI Bank Futures\nBiocon Futures\nIndusind Bank Futures\nCrude Oil Mini Future Price\nGold Petal Future Price\nSilver Micro Future Price\nNickel Future Price\nNatural Gas Mini MCX Option Chain\nCopper MCX Option Chain\nNIFTY 50 Options\nHDFC Bank Options\nWipro  Options\nDLF Options\nREC  Options\nYes Bank Futures\nZomato Futures\nAshok Leyland Futures\nHDFC Bank Futures\nUPL Futures\nAdani Enter"
+  },
+  {
+    "chunk_id": "aaa62c8b-a638-431a-8818-cbfd60dba4a1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\ne Price\nNickel Future Price\nNatural Gas Mini MCX Option Chain\nCopper MCX Option Chain\nNIFTY 50 Options\nHDFC Bank Options\nWipro  Options\nDLF Options\nREC  Options\nYes Bank Futures\nZomato Futures\nAshok Leyland Futures\nHDFC Bank Futures\nUPL Futures\nAdani Enterprises Futures\nGold Future Price\nNatural Gas Future Price\nZinc Future Price\nGold MCX Option Chain\nGold Mini MCX Option Chain\nCommodities Expiry Calendar\nBse Sensex Options\nTata Steel Options\nNTPC Options\nBajaj Auto Options\nIndusind Bank Options\nTata Motors Futures\nInfosys Futures\nAsian Paints Futures\nLupin Futures\nCipla Futures\nIDFC First Bank Futures\nGold Mini Future Price\nNatural Gas Mini Future Price\nCopper Future Price\nCrude Oil MCX Option Chain\nSilver MCX Option Chain\nFinnifty Options\nInfosys Options\nAsian Paints Options\nCoal India Options\nAshok Leyland Options\nTata Steel Futures\nBSE Sensex Futures\nWipro Futures\nDLF Futures\nBajaj Finance Futures\nPiramal Enterprises Futures\nGold Ten Future Price\nSilver Future Price\nAluminium Future Price\nCrude Oil Mini MCX Option Chain\nSilver Mini MCX Option Chain\nTata Motors Options\nITC Options\nICICI Bank Options\nAdani Enterprises Options\nNIFTY 50 Futures\nCoal India Futures\nAxis Bank Futures\nVedanta Futures\nReliance Industries Futures\nHindustan Copper Futures\nCrude Oil Future Price\nGold Guinea Future Price\nSilver Mini Future Price\nElectricity Future Price\nNatural Gas MCX Option Chain\nZinc MCX Option Chain\nMF Screener\nDebt Mutual Funds\nBest Multicap Mutual funds\nBest Contra Mutual funds\nBest Conservative Hybrid Mutual funds\nSBI Contra Fund\nNippon India Nifty 500 Momentum 50 Index Fund\nHDFC Balanced Advantage Fund\nQuant Mid Cap Fund\nBank of India Small Cap Fund\nQuant Multi Asset Fund\nNippon India\nTATA\nBandhan\nEdelweiss\nHSBC\nUnion\nQuantum\nShriram\nCompare Mutual Funds\nBest Debt Mutual funds\nBest Large Cap Mutual funds\nBest Value Oriented Mutual funds\nParag Parikh Flexi Cap Fund\nHDFC Mid Cap Opportunities Fund\nMotilal Oswal Nifty India Defence Index Fund\nICICI Prudential India Opportunities Fund\nKotak Small Cap Fund\nCanara Robec"
+  },
+  {
+    "chunk_id": "d80f9288-9d31-4339-a3c7-ed332f48a73b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nt Mutual funds\nBest Large Cap Mutual funds\nBest Value Oriented Mutual funds\nParag Parikh Flexi Cap Fund\nHDFC Mid Cap Opportunities Fund\nMotilal Oswal Nifty India Defence Index Fund\nICICI Prudential India Opportunities Fund\nKotak Small Cap Fund\nCanara Robeco Bluechip Equity Fund\nGrowwMF\nMotilal Oswal\nAditya Birla\nAxis\nBank of India\nBajaj Finserv\nHelios\nITI\nTrust\nMF Knowledge Centre\nBest Equity Mutual funds\nBest Small Cap Mutual funds\nBest Arbitrage Mutual funds\nMotilal Oswal Midcap Fund\nSBI Small Cap Fund\nHDFC Small Cap Fund\nKotak Multicap Fund\nICICI Prudential Infrastructure Fund\nBandhan Nifty Alpha 50 Index Fund\nSBI\nQuant\nMirae Asset\nDSP\nBaroda BNP Paribas\nMahindra Manulife\nSundaram\nSamco\nTaurus\nMutual Fund Houses\nBest Hybrid Mutual funds\nBest ELSS Mutual funds\nBest Dividend Yield Mutual funds\nNippon India Small Cap Fund\nHDFC Flexi Cap Fund\nTata Small Cap Fund\nTata Ethical Fund\nMirae Asset ELSS Tax Saver Fund\nQuant Infrastructure Fund\nHDFC\nPPFAS\nUTI\nKotak Mahindra\nZerodha\nInvesco\nNavi\nPGIM\nMutual Funds Categories\nBest MidCap Mutual funds\nBest Sectoral Mutual funds\nBest Aggressive Hybrid Mutual funds\nQuant Small Cap Fund\nSBI Magnum Children's Benefit Fund\nUTI Nifty 50 Index Fund\nJM Flexicap Fund\nHSBC Small Cap Fund\nFranklin India Multi Cap Fund\nICICI Prudential\nLIC\nCanara Robeco\nWhiteoak\nFranklin Templeton\nNJ\nJM\n360 One\nInternational\nSilver\nMidcap\nLiquid\nDebt\nIndex\nBank Nifty\nNifty IT\nEquity\nNifty 50\nNifty Metal\nNifty Auto\nCommodity\nNifty Next 50\nHealthcare\nGroww\nGold\nSensex\nDefence\nGroww Arbitrage Fund\nGroww ELSS Tax Saver Fund\nGroww Banking & Financial Services Fund\nGroww Gold ETF FOF\nGroww Gold ETF\nGroww Short Duration Fund\nGroww Aggressive Hybrid Fund\nGroww Nifty Smallcap 250 Index Fund\nGroww Multicap Fund\nGroww Nifty India Defence ETF\nGroww Liquid Fund\nGroww Dynamic Bond Fund\nGroww Nifty Non Cyclical Consumer Index Fund\nGroww Nifty India Railways PSU Index Fund\nGroww Nifty India Railways ETF\nGroww Large Cap Fund\nGroww Overnight Fund\nGroww Nifty EV & New Age Automotive ETF FoF\nGroww Nifty 200 ETF FoF\nGroww Va"
+  },
+  {
+    "chunk_id": "b6ca3339-aa09-4aee-9e15-4ec69cd3f23e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "fund_slug": "hdfc_flexi_cap",
+    "scraped_at": "2026-11-01T09:55:30.187444+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Flexi Cap]\nw Dynamic Bond Fund\nGroww Nifty Non Cyclical Consumer Index Fund\nGroww Nifty India Railways PSU Index Fund\nGroww Nifty India Railways ETF\nGroww Large Cap Fund\nGroww Overnight Fund\nGroww Nifty EV & New Age Automotive ETF FoF\nGroww Nifty 200 ETF FoF\nGroww Value Fund\nGroww Nifty Total Market Index Fund\nGroww Nifty India Defence ETF FoF\nGroww Silver ETF\nSIP Calculator\nBrokerage Calculator\nRD Calculator\nHRA Calculator\nHome Loan EMI Calculator\nLumpsum Calculator\nMargin Calculator\nFD Calculator\nSalary Calculator\nROI Calculator\nSWP Calculator\nStock Average Calculator\nEPF Calculator\nTDS Calculator\nMF Calculator\nSSY Calculator\nIncome Tax Calculator\nEMI Calculator\nStep-Up SIP Calculator\nPPF Calculator\nGST Calculator\nCar Loan EMI Calculator\nWhat is IPO?\nHow to Apply for an IPO\nOpen IPOs\nWhat is Grey Market Premium?\nUpcoming IPOs\nMainboard IPOs\nClosed IPOs\nSME IPOs\nIPO Subscription Status\nIPO Allotment Status\nNFO\nPricing\nTrust & Safety\nGroww Digest\nMinor Demat Account\nIntraday\nBlog\nInvestor Relations\nInvest in Gold\nCorporate Bonds\nMedia & Press\nGold Rates\nInvest in Silver\nHUF Demat Account\nCareers\nSilver Rates\nSitemap\nAbout Us\nHelp & Support\nGlossary\nNRI Demat Account\nShow More\nOthers:\nNSE\nBSE\nMCX\nTerms and Conditions\nPolicies and Procedures\nRegulatory & Other Info\nPrivacy Policy\nDisclosure\nSMART ODR\nDownload Forms\nInformation Security Practices\nInvestor Charter and Grievance\nBug Bounty\nGroww Pay - Terms of use\nGroww Pay - Privacy policy\nGroww IFSC\nMutual Funds\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers\nStocks\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers"
+  }
+]

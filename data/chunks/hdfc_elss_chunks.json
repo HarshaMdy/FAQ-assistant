@@ -1,0 +1,856 @@
+[
+  {
+    "chunk_id": "0dce3406-33e7-439a-aba0-aea543fed28d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Scheme Name: HDFC ELSS Tax Saver Fund Direct Plan Growth",
+    "metric_key": "Scheme Name"
+  },
+  {
+    "chunk_id": "52eb808f-c439-4718-a270-222075d84297",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Expense Ratio: 1.2%",
+    "metric_key": "Expense Ratio"
+  },
+  {
+    "chunk_id": "c2a8b4cc-09bb-4834-b836-b65e42eb236d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Minimum SIP: ₹500",
+    "metric_key": "Minimum SIP"
+  },
+  {
+    "chunk_id": "f659cbd2-d017-42ca-a632-96620478aa8c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Minimum Investment Amount: ₹500",
+    "metric_key": "Minimum Investment Amount"
+  },
+  {
+    "chunk_id": "5421794d-0d33-4e4d-8f28-3b8dcf9b4619",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Exit Load: Nil",
+    "metric_key": "Exit Load"
+  },
+  {
+    "chunk_id": "154433bd-592b-4ea6-85cd-91349a4bed2c",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Lock-in Period: 3 Years mandatory lock-in period for ELSS Tax Saver",
+    "metric_key": "Lock-in Period"
+  },
+  {
+    "chunk_id": "fb4d88f7-c74c-47bc-b1ea-c86122b736b5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Benchmark Index: NIFTY 500 Total Return Index",
+    "metric_key": "Benchmark Index"
+  },
+  {
+    "chunk_id": "a51cdbbe-55fc-4194-88af-4d016e5bae19",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Category: Equity",
+    "metric_key": "Category"
+  },
+  {
+    "chunk_id": "fa921df7-fb77-418e-99da-b3f99babfa4a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Fund Manager: Vinay Kulkarni",
+    "metric_key": "Fund Manager"
+  },
+  {
+    "chunk_id": "997b7697-c447-4921-b89f-b1559469ee2d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | AUM (Fund Size): ₹14948.74 Cr",
+    "metric_key": "AUM (Fund Size)"
+  },
+  {
+    "chunk_id": "c82ad10e-b7e2-4cdd-9f5c-762786755ae4",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Groww Rating: 5 / 5",
+    "metric_key": "Groww Rating"
+  },
+  {
+    "chunk_id": "391ba119-1e40-4336-be8e-2d1f9e074797",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Statement Download: To download account statement or capital gains statement: Log into Groww, navigate to Profile > Reports > Mutual Funds > Capital Gains Statement.",
+    "metric_key": "Statement Download"
+  },
+  {
+    "chunk_id": "7ffd4c70-7c66-454e-bc64-6ddd1543a626",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Over the past: Total investment | Would've become | Historic returns | Returns",
+    "metric_key": "Over the past"
+  },
+  {
+    "chunk_id": "d4a63fad-0dcc-4997-b92d-5912051bc3e9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | 1 year: ₹60,000 | ₹57,934 |  | -3.44%",
+    "metric_key": "1 year"
+  },
+  {
+    "chunk_id": "9d4a63ef-1ac3-4591-9eb2-055501725704",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | 3 years: ₹1,80,000 | ₹1,84,446 |  | +2.47%",
+    "metric_key": "3 years"
+  },
+  {
+    "chunk_id": "e7298387-2cf2-449d-8eac-989f27b3477e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | 5 years: ₹3,00,000 | ₹3,86,240 |  | +28.75%",
+    "metric_key": "5 years"
+  },
+  {
+    "chunk_id": "418c2bd1-c968-4793-9cc6-9e52d6542952",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | 10 years: ₹6,00,000 | ₹12,03,988 |  | +100.66%",
+    "metric_key": "10 years"
+  },
+  {
+    "chunk_id": "2d18438d-4d8f-4bfd-b664-fe1af868e01a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Name: Sector | Instruments | Assets",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "5b309450-efb2-418e-af1b-110896bcf568",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | ICICI Bank Ltd: Financial | Equity | 9.06%",
+    "metric_key": "ICICI Bank Ltd"
+  },
+  {
+    "chunk_id": "15c33b08-64f2-4c51-91dc-ddaa408aa49a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | HDFC Bank Ltd: Financial | Equity | 7.87%",
+    "metric_key": "HDFC Bank Ltd"
+  },
+  {
+    "chunk_id": "9234b7af-7091-4a58-8d57-144f6d072afb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Axis Bank Ltd: Financial | Equity | 6.56%",
+    "metric_key": "Axis Bank Ltd"
+  },
+  {
+    "chunk_id": "7cd3cdfc-8a32-48f2-9129-363db12216bb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Kotak Mahindra Bank Ltd: Financial | Equity | 4.88%",
+    "metric_key": "Kotak Mahindra Bank Ltd"
+  },
+  {
+    "chunk_id": "83e2ce44-d1b1-42b4-be80-f780f26adce7",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | State Bank of India: Financial | Equity | 4.49%",
+    "metric_key": "State Bank of India"
+  },
+  {
+    "chunk_id": "be8f503b-9761-4e6d-a263-e0b95266473e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Bharti Airtel Ltd: Technology | Equity | 4.45%",
+    "metric_key": "Bharti Airtel Ltd"
+  },
+  {
+    "chunk_id": "05bd778f-a2eb-4327-8e05-d23000fb6dbe",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Maruti Suzuki India Ltd: Consumer Discretionary | Equity | 4.40%",
+    "metric_key": "Maruti Suzuki India Ltd"
+  },
+  {
+    "chunk_id": "560543d8-9d71-427d-a5ab-ef955f008972",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | SBI Life Insurance Company Ltd: Financial | Equity | 3.21%",
+    "metric_key": "SBI Life Insurance Company Ltd"
+  },
+  {
+    "chunk_id": "13322857-2b10-424f-97a2-e8fddfd6acac",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | HCL Technologies Ltd: Technology | Equity | 2.94%",
+    "metric_key": "HCL Technologies Ltd"
+  },
+  {
+    "chunk_id": "c9693782-c010-4e70-82e5-221c7d222c9e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Hyundai Motor India Ltd.: Consumer Discretionary | Equity | 2.72%",
+    "metric_key": "Hyundai Motor India Ltd."
+  },
+  {
+    "chunk_id": "aa5f30d3-860c-4395-abfa-eff3874fc50a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Reliance Industries Ltd: Energy & Utilities | Equity | 2.64%",
+    "metric_key": "Reliance Industries Ltd"
+  },
+  {
+    "chunk_id": "2fd569a3-f437-4fa1-a480-124fd80c8e72",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Zomato Ltd: Technology | Equity | 2.41%",
+    "metric_key": "Zomato Ltd"
+  },
+  {
+    "chunk_id": "cc96055e-08c1-4675-9375-336ecf026ed8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Bajaj Auto Ltd: Consumer Discretionary | Equity | 1.88%",
+    "metric_key": "Bajaj Auto Ltd"
+  },
+  {
+    "chunk_id": "3d08061f-9463-40e6-b7f7-9189e25086d1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Tata Steel Ltd: Materials | Equity | 1.85%",
+    "metric_key": "Tata Steel Ltd"
+  },
+  {
+    "chunk_id": "3ae62a20-5320-4456-abe1-940be64899e8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Britannia Industries Ltd: Consumer Staples | Equity | 1.69%",
+    "metric_key": "Britannia Industries Ltd"
+  },
+  {
+    "chunk_id": "c63b10c8-a999-488b-bdb1-dac2785e253d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Larsen & Toubro Ltd: Industrials | Equity | 1.59%",
+    "metric_key": "Larsen & Toubro Ltd"
+  },
+  {
+    "chunk_id": "6beb7fec-1b70-44bf-bae4-8123fd731b07",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | JSW Steel Ltd: Materials | Equity | 1.55%",
+    "metric_key": "JSW Steel Ltd"
+  },
+  {
+    "chunk_id": "5fc71e79-554a-4305-852b-8479fd03db42",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Dr. Lal Pathlabs Ltd: Healthcare | Equity | 1.52%",
+    "metric_key": "Dr. Lal Pathlabs Ltd"
+  },
+  {
+    "chunk_id": "d292d927-f42a-44ad-b24e-7ee6a46dbee2",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Apollo Hospitals Enterprise Ltd: Healthcare | Equity | 1.50%",
+    "metric_key": "Apollo Hospitals Enterprise Ltd"
+  },
+  {
+    "chunk_id": "1457feeb-bb83-46dd-a7b4-51c87614e994",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Bosch Ltd: Consumer Discretionary | Equity | 1.42%",
+    "metric_key": "Bosch Ltd"
+  },
+  {
+    "chunk_id": "d61f219c-6dc8-4160-bc75-c594e5ed4987",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Interglobe Aviation Ltd: Industrials | Equity | 1.37%",
+    "metric_key": "Interglobe Aviation Ltd"
+  },
+  {
+    "chunk_id": "c0d92124-fcd0-4cbc-86fa-bc6189ac0f79",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Karur Vysya Bank Ltd: Financial | Equity | 1.30%",
+    "metric_key": "Karur Vysya Bank Ltd"
+  },
+  {
+    "chunk_id": "14013eea-8ee6-4d8d-ba8d-6940461e4ae9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Jubilant FoodWorks Ltd: Consumer Discretionary | Equity | 1.21%",
+    "metric_key": "Jubilant FoodWorks Ltd"
+  },
+  {
+    "chunk_id": "ce767c91-28b6-4b6b-a6a2-1d165f86d172",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Alkem Laboratories Ltd: Healthcare | Equity | 1.21%",
+    "metric_key": "Alkem Laboratories Ltd"
+  },
+  {
+    "chunk_id": "953e8ecd-6608-4647-a856-85c3375a7ae9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Hindustan Aeronautics Ltd: Industrials | Equity | 1.17%",
+    "metric_key": "Hindustan Aeronautics Ltd"
+  },
+  {
+    "chunk_id": "a613e69e-f75f-4d02-a6ab-d2be0ab8783b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Metropolis Healthcare Ltd: Healthcare | Equity | 1.16%",
+    "metric_key": "Metropolis Healthcare Ltd"
+  },
+  {
+    "chunk_id": "08b238fc-393f-4df6-b76a-e57f73139558",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Cipla Ltd: Healthcare | Equity | 1.11%",
+    "metric_key": "Cipla Ltd"
+  },
+  {
+    "chunk_id": "7207f99b-41df-4b29-be92-48bc94bc02b6",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | ICICI Lombard General Insurance Company Ltd: Financial | Equity | 1.10%",
+    "metric_key": "ICICI Lombard General Insurance Company Ltd"
+  },
+  {
+    "chunk_id": "23f5aaab-cf93-41d1-9567-a0ca8428cd1f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Power Grid Corporation of India Ltd: Energy & Utilities | Equity | 1.09%",
+    "metric_key": "Power Grid Corporation of India Ltd"
+  },
+  {
+    "chunk_id": "8c96a05a-7614-4ff9-a1be-fc3d6b74d662",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Star Health & Allied Insurance Co. Ltd: Financial | Equity | 1.07%",
+    "metric_key": "Star Health & Allied Insurance Co. Ltd"
+  },
+  {
+    "chunk_id": "ebe8dd83-83b8-4680-81bc-27d221b5bed8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | ICICI Prudential Asset Management Company Ltd.: Financial | Equity | 1.05%",
+    "metric_key": "ICICI Prudential Asset Management Company Ltd."
+  },
+  {
+    "chunk_id": "a93be38f-cd65-4d73-ba75-c92e4a15eefb",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | United Spirits Ltd: Consumer Staples | Equity | 1.03%",
+    "metric_key": "United Spirits Ltd"
+  },
+  {
+    "chunk_id": "5f3d9c87-bbe0-4bad-964e-cd753d238095",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Tech Mahindra Ltd: Technology | Equity | 1.02%",
+    "metric_key": "Tech Mahindra Ltd"
+  },
+  {
+    "chunk_id": "d4d92fac-4d91-4f0c-b911-01c7bec8a432",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Mphasis Ltd: Technology | Equity | 1.01%",
+    "metric_key": "Mphasis Ltd"
+  },
+  {
+    "chunk_id": "26507ab2-66b9-4121-9fb8-f0cac9faeed9",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | JSW Energy Ltd: Energy & Utilities | Equity | 0.97%",
+    "metric_key": "JSW Energy Ltd"
+  },
+  {
+    "chunk_id": "de612c02-8831-473c-92af-c4119aeccf27",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Infosys Ltd: Technology | Equity | 0.96%",
+    "metric_key": "Infosys Ltd"
+  },
+  {
+    "chunk_id": "c45f8b1e-368b-4ff0-a93c-8ea124be7a2b",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Lupin Ltd: Healthcare | Equity | 0.95%",
+    "metric_key": "Lupin Ltd"
+  },
+  {
+    "chunk_id": "68f131a6-e71f-4f05-80c6-caffab60afbc",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Eicher Motors Ltd: Consumer Discretionary | Equity | 0.86%",
+    "metric_key": "Eicher Motors Ltd"
+  },
+  {
+    "chunk_id": "4319a144-2937-4681-bbb6-7b01d0ce9f08",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | PB Fintech Ltd: Financial | Equity | 0.84%",
+    "metric_key": "PB Fintech Ltd"
+  },
+  {
+    "chunk_id": "4fcb01e0-44c9-4bf6-9519-eb7e3d95e749",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Chalet Hotels Ltd: Consumer Discretionary | Equity | 0.81%",
+    "metric_key": "Chalet Hotels Ltd"
+  },
+  {
+    "chunk_id": "728ff620-2c32-4b43-b3d5-a8d61b262fee",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | IIFL Wealth Management Ltd: Financial | Equity | 0.79%",
+    "metric_key": "IIFL Wealth Management Ltd"
+  },
+  {
+    "chunk_id": "30e6686c-3a88-4988-aca8-1a9ff16d47ab",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Hindustan Unilever Ltd: Consumer Staples | Equity | 0.75%",
+    "metric_key": "Hindustan Unilever Ltd"
+  },
+  {
+    "chunk_id": "8242f644-5568-4329-a3c5-47f3cc8f31f8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Godrej Consumer Products Ltd: Consumer Staples | Equity | 0.74%",
+    "metric_key": "Godrej Consumer Products Ltd"
+  },
+  {
+    "chunk_id": "3f06123a-3387-4d0e-9d12-4379b5f28c18",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Havells India Ltd: Consumer Discretionary | Equity | 0.73%",
+    "metric_key": "Havells India Ltd"
+  },
+  {
+    "chunk_id": "b386e87e-c6b5-4822-84b6-181b3f5cca3f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Mahindra & Mahindra Ltd: Consumer Discretionary | Equity | 0.69%",
+    "metric_key": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "chunk_id": "d9cbc7d2-7bb5-4e35-beac-aea84a9e26f6",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Cummins India Ltd: Industrials | Equity | 0.68%",
+    "metric_key": "Cummins India Ltd"
+  },
+  {
+    "chunk_id": "bc812975-5e9b-4aa7-8f9c-3b642dc695e1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Westlife Development Ltd: Consumer Discretionary | Equity | 0.59%",
+    "metric_key": "Westlife Development Ltd"
+  },
+  {
+    "chunk_id": "fbdacb1b-28a6-4336-84a6-33dd04008752",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Birla Corporation Ltd: Materials | Equity | 0.56%",
+    "metric_key": "Birla Corporation Ltd"
+  },
+  {
+    "chunk_id": "b018ff73-a2e2-4cb7-9b84-26b80a8e59de",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Bharat Electronics Ltd: Industrials | Equity | 0.56%",
+    "metric_key": "Bharat Electronics Ltd"
+  },
+  {
+    "chunk_id": "454be145-aeb9-482a-8f70-18df1dfdd955",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Life Insurance Corporation of India: Financial | Equity | 0.53%",
+    "metric_key": "Life Insurance Corporation of India"
+  },
+  {
+    "chunk_id": "b8fa464a-7d02-4d00-9c02-586e6c47e7b5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Repo: Unspecified | Repo | 0.47%",
+    "metric_key": "Repo"
+  },
+  {
+    "chunk_id": "d7cfcdee-8d7c-4acd-bb84-34b65fe93b2a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | The Ramco Cements Ltd: Materials | Equity | 0.45%",
+    "metric_key": "The Ramco Cements Ltd"
+  },
+  {
+    "chunk_id": "0913e7a3-4cb2-4308-a233-9633e480bfba",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Cyient Ltd: Technology | Equity | 0.44%",
+    "metric_key": "Cyient Ltd"
+  },
+  {
+    "chunk_id": "4d6caf93-91e3-4da8-9b60-11f6bd5ae445",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Suven Pharmaceuticals Ltd: Healthcare | Equity | 0.42%",
+    "metric_key": "Suven Pharmaceuticals Ltd"
+  },
+  {
+    "chunk_id": "1879b5e5-8c28-4f4e-bf52-7202f1b90b19",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100: Entities | GOI Securities | 0.34%",
+    "metric_key": "GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100"
+  },
+  {
+    "chunk_id": "0ea15fcf-8cc1-4f11-a810-221c5877238d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | TeamLease Services Ltd: Industrials | Equity | 0.31%",
+    "metric_key": "TeamLease Services Ltd"
+  },
+  {
+    "chunk_id": "5b62008b-aad2-4559-b97a-fa51ff8f16da",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Popular Vehicles And Services Ltd.: Consumer Discretionary | Equity | 0.31%",
+    "metric_key": "Popular Vehicles And Services Ltd."
+  },
+  {
+    "chunk_id": "15eecc58-9a94-451e-939b-bc590d123c7d",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Rubicon Research Ltd.: Healthcare | Equity | 0.24%",
+    "metric_key": "Rubicon Research Ltd."
+  },
+  {
+    "chunk_id": "306b8e63-c27c-4570-9cde-c7ca6b3e5f10",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Tata Motors Ltd: Industrials | Equity | 0.17%",
+    "metric_key": "Tata Motors Ltd"
+  },
+  {
+    "chunk_id": "9521479e-64b4-4d52-8d26-3c828d51ddd1",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | JK Lakshmi Cement Ltd: Materials | Equity | 0.13%",
+    "metric_key": "JK Lakshmi Cement Ltd"
+  },
+  {
+    "chunk_id": "73a2b4ad-df69-44cc-9fd4-fb28f435401f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Bajaj Electricals Ltd: Consumer Discretionary | Equity | 0.12%",
+    "metric_key": "Bajaj Electricals Ltd"
+  },
+  {
+    "chunk_id": "7460569e-6714-4853-983a-e537eee24cc0",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Anthem Biosciences Ltd.: Healthcare | Equity | 0.07%",
+    "metric_key": "Anthem Biosciences Ltd."
+  },
+  {
+    "chunk_id": "6101228b-d2f0-402e-9361-c40095074847",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | SBI Funds Management Ltd: Financial | Equity | 0.05%",
+    "metric_key": "SBI Funds Management Ltd"
+  },
+  {
+    "chunk_id": "e4ab2377-e93b-4145-bce9-9d497746e4a5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Net Payables: Unspecified | Net Payables | -0.06%",
+    "metric_key": "Net Payables"
+  },
+  {
+    "chunk_id": "3a09f5a7-4df9-46ab-9d25-607357163348",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Name: 3Y | 5Y | 10Y | All",
+    "metric_key": "Name"
+  },
+  {
+    "chunk_id": "329c2bf8-494b-4140-af96-cea121122402",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Fund returns: +12.8% | +12.9% | +12.6% | +13.6%",
+    "metric_key": "Fund returns"
+  },
+  {
+    "chunk_id": "6c523304-849a-457c-9d2e-b48968451946",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Category average (Equity ELSS): +11.0% | +9.6% | +12.8% | +16.8%",
+    "metric_key": "Category average (Equity ELSS)"
+  },
+  {
+    "chunk_id": "d022b32d-9bcd-411f-9642-abb9ae286a2e",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "table_metric",
+    "chunk_text": "Scheme: Hdfc Elss | Rank (Equity ELSS): 11 | 4 | 16 | --",
+    "metric_key": "Rank (Equity ELSS)"
+  },
+  {
+    "chunk_id": "22ad5e73-3649-41b0-887e-5dc94a2d7fd8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nHDFC ELSS Tax Saver Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio\nStocks\nInvest in Stocks\nInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.\nIntraday\nMonitor top intraday performers in real time\nETF Screener\nGet the best of Mutual Funds and flexibility of Stocks\nIPO\nTrack upcoming and ongoing IPOs\nMTFs\nBuy now, pay later\nStock Screener\nFilter based on RSI, PE ratio and more\nStock Events\nDividends, bonus, buybacks and more\nDemat Account\nBegin your stock market journey\nShare Market Today\nLive news updates from stock market\nF&O\nTrade in Futures & Options\nTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space\nIndices\nTrack markets across the globe\nTerminal\nTrack charts, orders, positions, watchlists in one place\nOption chain\nAnalyse chains, view payoffs, create baskets\nPledge\nGet extra balance for trading\nCommodities\nTrade in Crude Oil, Gold, Silver and more\nAPI trading\nSet up and execute trades through our API\nMutual Funds\nInvest in Mutual Funds\nInvest in direct mutual funds at zero charges via lump sump investments or SIPs\nMutual Fund Houses\nKnow about AMCs, funds, fund managers\nNFO’s\nTrack all active NFOs in one place\nMutual Funds by Groww\nMutual funds by Groww designed for your investment goals\nStart SIP\nBuild long-term wealth through disciplined monthly investing.\nMutual Funds screener\nFilter funds based on risk, fund size and more\nTrack Funds\nImport funds and track all investments in a single place\nCompare Funds\nMore\nSIP calculator\nEstimate returns on a SIP\nBrokerage calculator\nEstimate charges for your trade/investment\nMargin calculator\nEstimate balance needed to buy/sell a stock\nSWP calculator\nReturns on your systematic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+12.80\n%\n3Y annualised\n+0.18\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹1,434.92\nMin. for SIP\n₹500\nFund size (AUM)\n₹14,948.74 Cr\nExpe"
+  },
+  {
+    "chunk_id": "7dc57bee-5666-4a8a-857f-94ea0ade88b5",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nyour systematic withdrawal plan\nPricing\nBrokerage and charges on Groww\nBlog\nCredit\nLoan against securities and Personal loan\n+12.80\n%\n3Y annualised\n+0.18\n%\n1D\n1M\n6M\n1Y\n3Y\n5Y\nAll\nNAV: 30 Oct '26\n₹1,434.92\nMin. for SIP\n₹500\nFund size (AUM)\n₹14,948.74 Cr\nExpense ratio\n1.20%\nRating\n5\nReturn calculator\nMonthly SIP\nOne time\nMonthly investment\n₹5,000\nOver the past\nTotal investment\nWould've become\nHistoric returns\nReturns\n1 year\n₹60,000\n₹57,934\n-3.44\n%\n3 years\n₹1,80,000\n₹1,84,446\n+\n2.47\n%\n5 years\n₹3,00,000\n₹3,86,240\n+\n28.75\n%\n10 years\n₹6,00,000\n₹12,03,988\n+\n100.66\n%\nHoldings (\n64\n)\nName\nSector\nInstruments\nAssets\nICICI Bank Ltd\nFinancial\nEquity\n9.06%\nHDFC Bank Ltd\nFinancial\nEquity\n7.87%\nAxis Bank Ltd\nFinancial\nEquity\n6.56%\nKotak Mahindra Bank Ltd\nFinancial\nEquity\n4.88%\nState Bank of India\nFinancial\nEquity\n4.49%\nBharti Airtel Ltd\nTechnology\nEquity\n4.45%\nMaruti Suzuki India Ltd\nConsumer Discretionary\nEquity\n4.40%\nSBI Life Insurance Company Ltd\nFinancial\nEquity\n3.21%\nHCL Technologies Ltd\nTechnology\nEquity\n2.94%\nHyundai Motor India Ltd.\nConsumer Discretionary\nEquity\n2.72%\nReliance Industries Ltd\nEnergy & Utilities\nEquity\n2.64%\nZomato Ltd\nTechnology\nEquity\n2.41%\nBajaj Auto Ltd\nConsumer Discretionary\nEquity\n1.88%\nTata Steel Ltd\nMaterials\nEquity\n1.85%\nBritannia Industries Ltd\nConsumer Staples\nEquity\n1.69%\nLarsen & Toubro Ltd\nIndustrials\nEquity\n1.59%\nJSW Steel Ltd\nMaterials\nEquity\n1.55%\nDr. Lal Pathlabs Ltd\nHealthcare\nEquity\n1.52%\nApollo Hospitals Enterprise Ltd\nHealthcare\nEquity\n1.50%\nBosch Ltd\nConsumer Discretionary\nEquity\n1.42%\nInterglobe Aviation Ltd\nIndustrials\nEquity\n1.37%\nKarur Vysya Bank Ltd\nFinancial\nEquity\n1.30%\nJubilant FoodWorks Ltd\nConsumer Discretionary\nEquity\n1.21%\nAlkem Laboratories Ltd\nHealthcare\nEquity\n1.21%\nHindustan Aeronautics Ltd\nIndustrials\nEquity\n1.17%\nMetropolis Healthcare Ltd\nHealthcare\nEquity\n1.16%\nCipla Ltd\nHealthcare\nEquity\n1.11%\nICICI Lombard General Insurance Company Ltd\nFinancial\nEquity\n1.10%\nPower Grid Corporation of India Ltd\nEnergy & Utilities\nEquity\n1.09%\nStar Health & Allied Insurance Co. Ltd"
+  },
+  {
+    "chunk_id": "aa728965-d017-4188-8685-0ae0d83c0007",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\ntropolis Healthcare Ltd\nHealthcare\nEquity\n1.16%\nCipla Ltd\nHealthcare\nEquity\n1.11%\nICICI Lombard General Insurance Company Ltd\nFinancial\nEquity\n1.10%\nPower Grid Corporation of India Ltd\nEnergy & Utilities\nEquity\n1.09%\nStar Health & Allied Insurance Co. Ltd\nFinancial\nEquity\n1.07%\nICICI Prudential Asset Management Company Ltd.\nFinancial\nEquity\n1.05%\nUnited Spirits Ltd\nConsumer Staples\nEquity\n1.03%\nTech Mahindra Ltd\nTechnology\nEquity\n1.02%\nMphasis Ltd\nTechnology\nEquity\n1.01%\nJSW Energy Ltd\nEnergy & Utilities\nEquity\n0.97%\nInfosys Ltd\nTechnology\nEquity\n0.96%\nLupin Ltd\nHealthcare\nEquity\n0.95%\nEicher Motors Ltd\nConsumer Discretionary\nEquity\n0.86%\nPB Fintech Ltd\nFinancial\nEquity\n0.84%\nChalet Hotels Ltd\nConsumer Discretionary\nEquity\n0.81%\nIIFL Wealth Management Ltd\nFinancial\nEquity\n0.79%\nHindustan Unilever Ltd\nConsumer Staples\nEquity\n0.75%\nGodrej Consumer Products Ltd\nConsumer Staples\nEquity\n0.74%\nHavells India Ltd\nConsumer Discretionary\nEquity\n0.73%\nMahindra & Mahindra Ltd\nConsumer Discretionary\nEquity\n0.69%\nCummins India Ltd\nIndustrials\nEquity\n0.68%\nWestlife Development Ltd\nConsumer Discretionary\nEquity\n0.59%\nBirla Corporation Ltd\nMaterials\nEquity\n0.56%\nBharat Electronics Ltd\nIndustrials\nEquity\n0.56%\nLife Insurance Corporation of India\nFinancial\nEquity\n0.53%\nRepo\nUnspecified\nRepo\n0.47%\nThe Ramco Cements Ltd\nMaterials\nEquity\n0.45%\nCyient Ltd\nTechnology\nEquity\n0.44%\nSuven Pharmaceuticals Ltd\nHealthcare\nEquity\n0.42%\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100\nEntities\nGOI Securities\n0.34%\nTeamLease Services Ltd\nIndustrials\nEquity\n0.31%\nPopular Vehicles And Services Ltd.\nConsumer Discretionary\nEquity\n0.31%\nRubicon Research Ltd.\nHealthcare\nEquity\n0.24%\nTata Motors Ltd\nIndustrials\nEquity\n0.17%\nJK Lakshmi Cement Ltd\nMaterials\nEquity\n0.13%\nBajaj Electricals Ltd\nConsumer Discretionary\nEquity\n0.12%\nAnthem Biosciences Ltd.\nHealthcare\nEquity\n0.07%\nSBI Funds Management Ltd\nFinancial\nEquity\n0.05%\nNet Payables\nUnspecified\nNet Payables\n-0.06%\nSee All\nMinimum investments\nMin. for 1st investment\n₹500\nMin. for 2nd investment\n₹500\nM"
+  },
+  {
+    "chunk_id": "a2626153-4f92-445b-98ba-4938478154f8",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nDiscretionary\nEquity\n0.12%\nAnthem Biosciences Ltd.\nHealthcare\nEquity\n0.07%\nSBI Funds Management Ltd\nFinancial\nEquity\n0.05%\nNet Payables\nUnspecified\nNet Payables\n-0.06%\nSee All\nMinimum investments\nMin. for 1st investment\n₹500\nMin. for 2nd investment\n₹500\nMin. for SIP\n₹500\nUnderstand terms\nAnnualised returns\nAverage of the yearly returns of a mutual fund over a given period.\nAbsolute returns\nThe total return of a mutual fund over a given period.\nReturns and rankings\nAnnualised returns\nAbsolute returns\nName\n3Y\n5Y\n10Y\nAll\nFund returns\n+12.8%\n+12.9%\n+12.6%\n+13.6%\nCategory average (\nEquity ELSS\n)\n+11.0%\n+9.6%\n+12.8%\n+16.8%\nRank (\nEquity ELSS\n)\n11\n4\n16\n--\nUnderstand terms\nExpense ratio\nA fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.\nTax\nA percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.\nExit load\nA fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.\nStamp duty\nA form of tax payable for the purchase or sale of an asset or security.\nExit Load\n01 Jan 2013\n--\nExit load, stamp duty and tax\nExit load\nNil\nStamp duty on investment:\n0.005% (from July 1st, 2020)\nfrom July 1st 2020\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nCheck past data\nFund management\nAK\nAmar Kalkundrikar\nDec 2025\n- Present\nView details\nEducation\nMr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.\nExperience\nPrior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple role"
+  },
+  {
+    "chunk_id": "627a50d4-861d-4b02-8cb7-72df225bbd05",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\new details\nEducation\nMr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.\nExperience\nPrior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.\nAlso manages these schemes\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nHDFC Multi Cap Fund Direct Growth\nDM\nDhruv Muchhal\nJun 2023\n- Present\nView details\nEducation\nMr. Dhruv has done B.Com, CA and CFA\nExperience\nPrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\nAlso manages these schemes\nHDFC Flexi Cap Direct Plan Growth\nHDFC Value Fund Direct Plan Growth\nHDFC Ultra Short to Short Term Fund Direct Growth\nHDFC Focused Fund Direct Growth\nHDFC Floating Interest Rates Fund Direct Plan Growth\nHDFC Balanced Advantage Fund Direct Growth\nHDFC Dynamic Term Fund Direct Plan Growth\nHDFC Medium Term Fund Direct Growth\nHDFC Medium to Long Term Fund Direct Growth\nHDFC Infrastructure Fund Direct Growth\nHDFC Corporate Bond Fund Direct Plan Growth\nHDFC Conservative Hybrid Fund Direct Growth\nHDFC Mid Cap Fund Direct Growth\nHDFC Equity Savings Direct Plan Growth\nHDFC Multi Asset Allocation Fund Direct Growth\nHDFC Aggressive Hybrid Fund Direct Plan Growth\nHDFC Short Term Fund Direct Plan Growth\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nHDFC Large Cap Fund Direct Growth\nHDFC Credit Risk Fund Direct Growth\nHDFC Banking and PSU Debt Fund Direct Growth\nHDFC Arbitrage Fund Direct Growth\nHDFC Large & Mid Cap Fund Direct Growth\nHDFC Small Cap Fund Direct Growth\nHDFC Ultra Short Term Fund Direct Growth\nHDFC Liquid Direct Plan Growth\nHDFC Overnight Fund Direct Growth\nHDFC Money Market Fund Direct Growth\nHDFC Housing Opportunities Fund Direct Growth\nHDFC Banking & Financial Services Fund Direct Growth\nHDFC Multi Cap Fund Direct Growth\nHDFC Business Cycle Fund Direct Growth\nHDFC Long Term Fund Direct Growth\nHDFC MNC Fund Direct Growth\nHDFC Defence Fund Direct Growth"
+  },
+  {
+    "chunk_id": "0267f366-d3be-4e63-8a67-f2b9d84b3fea",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nng Opportunities Fund Direct Growth\nHDFC Banking & Financial Services Fund Direct Growth\nHDFC Multi Cap Fund Direct Growth\nHDFC Business Cycle Fund Direct Growth\nHDFC Long Term Fund Direct Growth\nHDFC MNC Fund Direct Growth\nHDFC Defence Fund Direct Growth\nHDFC Consumption Fund Direct Growth\nHDFC Transportation and Logistics Fund Direct Growth\nHDFC Technology Fund Direct Growth\nHDFC Pharma And Healthcare Fund Direct Growth\nHDFC Manufacturing Fund Direct Growth\nHDFC Children's Fund Direct Plan\nHDFC Innovation Fund Direct Growth\nAbout\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nHDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 30 Oct 2026 is ₹1,434.92.\nThe HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.\n;\nInvestment Objective\nThe scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.\nFund benchmark\nNIFTY 500 Total Return Index\nScheme Information Document(SID)\nFund house\nHDFC Mutual Fund\nRank (total assets)\n#2 in India\nTotal AUM\n₹9,34,075.66 Cr\nDate of Incorporation\n10 Dec 1999\nPhone\n022 – 66316333\nE-mail\n[email protected]\nWebsite\nhttp://www.hdfcfund.com\nLaunch Date\n10 Dec 1999\nAddress\n\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020\nCustodian\nDeutsche Bank\nRegistrar & Transfer Agent\nCams\nEmail\n[email protected]\nWebsite\nwww.camsonline.com\nAddress\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\nHome\n>\nMutual Funds\n>\nHDFC Mutual Fund\n>\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nVaishnavi Tech Park, South Tower, 3rd Floor\nSarjapur Main Road, Bellandur, Bengaluru – 560103\nKarnataka\nContac"
+  },
+  {
+    "chunk_id": "84aa3a62-85be-4f45-8efc-67b676094313",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nAddress\n7th Floor, Tower II, Rayala Towers, 158, Anna Salai,\nHome\n>\nMutual Funds\n>\nHDFC Mutual Fund\n>\nHDFC ELSS Tax Saver Fund Direct Plan Growth\nVaishnavi Tech Park, South Tower, 3rd Floor\nSarjapur Main Road, Bellandur, Bengaluru – 560103\nKarnataka\nContact Us\nDownload the App\nGROWW\nAbout Us\nPricing\nBlog\nMedia & Press\nCareers\nHelp & Support\nTrust & Safety\nInvestor Relations\nPRODUCTS\nStocks\nF&O\nMTF\nETF\nIPO\nMutual Funds\nCommodities\nGroww Terminal\n915 Terminal\nStock Screens\nAlgo Trading\nGroww Charts\nGroww Digest\nDemat Account\nGroww AMC\nPMS\nBonds\nCredit\n© 2016-\n2026\nGroww. All rights reserved.\nVersion:\n8.1.4\nShare Market\nIndices\nF&O\nMutual Funds\nETFs\nFunds By Groww\nCalculators\nIPO\nMiscellaneous\nTop Gainers Stocks\n52 Weeks High Stocks\nTata Motors\nNHPC\nITC\nWipro\nBSE\nNTPC\nTop Losers Stocks\n52 Weeks Low Stocks\nIREDA\nState Bank of India\nAdani Power\nCDSL\nCochin Shipyard\nSJVN\nMost Traded Stocks\nStocks Market Calender\nTata Steel\nTata Power\nBharat Heavy Electricals\nIndian Oil Corporation\nHUDCO\nSAIL\nStocks Feed\nSuzlon Energy\nZomato (Eternal)\nYes Bank\nInfosys\nNBCC\nIRCTC\nShare Market Live Update\nFII DII Activity\nIRFC\nBharat Electronics\nHDFC Bank\nVedanta\nReliance Power\nJaiprakash Power Ventures\nStocks Sectors\nNIFTY 50\nNIFTY Midcap 100\nNIFTY 100\nUS Tech 100\nNIFTY Realty\nNikkei index\nSENSEX\nNIFTY Smallcap 100\nNIFTY Auto\nDow Jones Futures\nNIFTY PSU Bank\nNIFTY FMCG\nNIFTY BANK\nNIFTY MIDCAP 150\nKOSPI Index\nDow Jones Index\nGift Nifty\nBSE BANKEX\nIndia VIX\nNIFTY Pharma\nHANG SENG Index\nBSE 100\nFTSE 100 Index\nS&P 500\nNIFTY NEXT 50\nNIFTY Metal\nDAX Index\nNIFTY Fin Service\nCAC Index\nNifty Pvt Bank\nNIFTY Bank Options\nSBI Options\nBajaj Finance Options\nAxis Bank Options\nHindustan Unilever Options\nNIFTY Bank Futures\nFinnifty Futures\nITC Futures\nICICI Bank Futures\nBiocon Futures\nIndusind Bank Futures\nCrude Oil Mini Future Price\nGold Petal Future Price\nSilver Micro Future Price\nNickel Future Price\nNatural Gas Mini MCX Option Chain\nCopper MCX Option Chain\nNIFTY 50 Options\nHDFC Bank Options\nWipro  Options\nDLF Options\nREC  Options\nYes Bank Futures\nZoma"
+  },
+  {
+    "chunk_id": "e6cb307a-a105-4c65-83ee-ac5728c0dd3a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nres\nCrude Oil Mini Future Price\nGold Petal Future Price\nSilver Micro Future Price\nNickel Future Price\nNatural Gas Mini MCX Option Chain\nCopper MCX Option Chain\nNIFTY 50 Options\nHDFC Bank Options\nWipro  Options\nDLF Options\nREC  Options\nYes Bank Futures\nZomato Futures\nAshok Leyland Futures\nHDFC Bank Futures\nUPL Futures\nAdani Enterprises Futures\nGold Future Price\nNatural Gas Future Price\nZinc Future Price\nGold MCX Option Chain\nGold Mini MCX Option Chain\nCommodities Expiry Calendar\nBse Sensex Options\nTata Steel Options\nNTPC Options\nBajaj Auto Options\nIndusind Bank Options\nTata Motors Futures\nInfosys Futures\nAsian Paints Futures\nLupin Futures\nCipla Futures\nIDFC First Bank Futures\nGold Mini Future Price\nNatural Gas Mini Future Price\nCopper Future Price\nCrude Oil MCX Option Chain\nSilver MCX Option Chain\nFinnifty Options\nInfosys Options\nAsian Paints Options\nCoal India Options\nAshok Leyland Options\nTata Steel Futures\nBSE Sensex Futures\nWipro Futures\nDLF Futures\nBajaj Finance Futures\nPiramal Enterprises Futures\nGold Ten Future Price\nSilver Future Price\nAluminium Future Price\nCrude Oil Mini MCX Option Chain\nSilver Mini MCX Option Chain\nTata Motors Options\nITC Options\nICICI Bank Options\nAdani Enterprises Options\nNIFTY 50 Futures\nCoal India Futures\nAxis Bank Futures\nVedanta Futures\nReliance Industries Futures\nHindustan Copper Futures\nCrude Oil Future Price\nGold Guinea Future Price\nSilver Mini Future Price\nElectricity Future Price\nNatural Gas MCX Option Chain\nZinc MCX Option Chain\nMF Screener\nDebt Mutual Funds\nBest Multicap Mutual funds\nBest Contra Mutual funds\nBest Conservative Hybrid Mutual funds\nSBI Contra Fund\nNippon India Nifty 500 Momentum 50 Index Fund\nHDFC Balanced Advantage Fund\nQuant Mid Cap Fund\nBank of India Small Cap Fund\nQuant Multi Asset Fund\nNippon India\nTATA\nBandhan\nEdelweiss\nHSBC\nUnion\nQuantum\nShriram\nCompare Mutual Funds\nBest Debt Mutual funds\nBest Large Cap Mutual funds\nBest Value Oriented Mutual funds\nParag Parikh Flexi Cap Fund\nHDFC Mid Cap Opportunities Fund\nMotilal Oswal Nifty India Defence Index Fund\nI"
+  },
+  {
+    "chunk_id": "ad0520df-3e4b-4394-b8d5-90e575ee356f",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nBandhan\nEdelweiss\nHSBC\nUnion\nQuantum\nShriram\nCompare Mutual Funds\nBest Debt Mutual funds\nBest Large Cap Mutual funds\nBest Value Oriented Mutual funds\nParag Parikh Flexi Cap Fund\nHDFC Mid Cap Opportunities Fund\nMotilal Oswal Nifty India Defence Index Fund\nICICI Prudential India Opportunities Fund\nKotak Small Cap Fund\nCanara Robeco Bluechip Equity Fund\nGrowwMF\nMotilal Oswal\nAditya Birla\nAxis\nBank of India\nBajaj Finserv\nHelios\nITI\nTrust\nMF Knowledge Centre\nBest Equity Mutual funds\nBest Small Cap Mutual funds\nBest Arbitrage Mutual funds\nMotilal Oswal Midcap Fund\nSBI Small Cap Fund\nHDFC Small Cap Fund\nKotak Multicap Fund\nICICI Prudential Infrastructure Fund\nBandhan Nifty Alpha 50 Index Fund\nSBI\nQuant\nMirae Asset\nDSP\nBaroda BNP Paribas\nMahindra Manulife\nSundaram\nSamco\nTaurus\nMutual Fund Houses\nBest Hybrid Mutual funds\nBest ELSS Mutual funds\nBest Dividend Yield Mutual funds\nNippon India Small Cap Fund\nHDFC Flexi Cap Fund\nTata Small Cap Fund\nTata Ethical Fund\nMirae Asset ELSS Tax Saver Fund\nQuant Infrastructure Fund\nHDFC\nPPFAS\nUTI\nKotak Mahindra\nZerodha\nInvesco\nNavi\nPGIM\nMutual Funds Categories\nBest MidCap Mutual funds\nBest Sectoral Mutual funds\nBest Aggressive Hybrid Mutual funds\nQuant Small Cap Fund\nSBI Magnum Children's Benefit Fund\nUTI Nifty 50 Index Fund\nJM Flexicap Fund\nHSBC Small Cap Fund\nFranklin India Multi Cap Fund\nICICI Prudential\nLIC\nCanara Robeco\nWhiteoak\nFranklin Templeton\nNJ\nJM\n360 One\nInternational\nSilver\nMidcap\nLiquid\nDebt\nIndex\nBank Nifty\nNifty IT\nEquity\nNifty 50\nNifty Metal\nNifty Auto\nCommodity\nNifty Next 50\nHealthcare\nGroww\nGold\nSensex\nDefence\nGroww Arbitrage Fund\nGroww ELSS Tax Saver Fund\nGroww Banking & Financial Services Fund\nGroww Gold ETF FOF\nGroww Gold ETF\nGroww Short Duration Fund\nGroww Aggressive Hybrid Fund\nGroww Nifty Smallcap 250 Index Fund\nGroww Multicap Fund\nGroww Nifty India Defence ETF\nGroww Liquid Fund\nGroww Dynamic Bond Fund\nGroww Nifty Non Cyclical Consumer Index Fund\nGroww Nifty India Railways PSU Index Fund\nGroww Nifty India Railways ETF\nGroww Large Cap Fund\nGroww Overnight Fund\nGr"
+  },
+  {
+    "chunk_id": "b5688125-f3b3-4c74-b666-e4faaf62513a",
+    "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "fund_slug": "hdfc_elss",
+    "scraped_at": "2026-11-01T09:55:31.031546+00:00",
+    "chunk_type": "prose_window",
+    "chunk_text": "[Hdfc Elss]\nd\nGroww Multicap Fund\nGroww Nifty India Defence ETF\nGroww Liquid Fund\nGroww Dynamic Bond Fund\nGroww Nifty Non Cyclical Consumer Index Fund\nGroww Nifty India Railways PSU Index Fund\nGroww Nifty India Railways ETF\nGroww Large Cap Fund\nGroww Overnight Fund\nGroww Nifty EV & New Age Automotive ETF FoF\nGroww Nifty 200 ETF FoF\nGroww Value Fund\nGroww Nifty Total Market Index Fund\nGroww Nifty India Defence ETF FoF\nGroww Silver ETF\nSIP Calculator\nBrokerage Calculator\nRD Calculator\nHRA Calculator\nHome Loan EMI Calculator\nLumpsum Calculator\nMargin Calculator\nFD Calculator\nSalary Calculator\nROI Calculator\nSWP Calculator\nStock Average Calculator\nEPF Calculator\nTDS Calculator\nMF Calculator\nSSY Calculator\nIncome Tax Calculator\nEMI Calculator\nStep-Up SIP Calculator\nPPF Calculator\nGST Calculator\nCar Loan EMI Calculator\nWhat is IPO?\nHow to Apply for an IPO\nOpen IPOs\nWhat is Grey Market Premium?\nUpcoming IPOs\nMainboard IPOs\nClosed IPOs\nSME IPOs\nIPO Subscription Status\nIPO Allotment Status\nNFO\nPricing\nTrust & Safety\nGroww Digest\nMinor Demat Account\nIntraday\nBlog\nInvestor Relations\nInvest in Gold\nCorporate Bonds\nMedia & Press\nGold Rates\nInvest in Silver\nHUF Demat Account\nCareers\nSilver Rates\nSitemap\nAbout Us\nHelp & Support\nGlossary\nNRI Demat Account\nShow More\nOthers:\nNSE\nBSE\nMCX\nTerms and Conditions\nPolicies and Procedures\nRegulatory & Other Info\nPrivacy Policy\nDisclosure\nSMART ODR\nDownload Forms\nInformation Security Practices\nInvestor Charter and Grievance\nBug Bounty\nGroww Pay - Terms of use\nGroww Pay - Privacy policy\nGroww IFSC\nMutual Funds\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers\nStocks\n:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nOthers"
+  }
+]
