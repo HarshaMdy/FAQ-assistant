@@ -43,16 +43,24 @@ def app(environ, start_response):
     # POST requests handle Q&A queries
     if method == "POST":
         try:
-            content_length = int(environ.get("CONTENT_LENGTH", 0))
+            raw_len = environ.get("CONTENT_LENGTH")
+            content_length = int(raw_len) if raw_len else 0
         except (ValueError, TypeError):
             content_length = 0
 
-        request_body = environ["wsgi.input"].read(content_length).decode("utf-8") if content_length > 0 else "{}"
         try:
-            req_data = json.loads(request_body)
-            query = req_data.get("query", "")
+            if content_length > 0:
+                raw_bytes = environ["wsgi.input"].read(content_length)
+            else:
+                raw_bytes = environ["wsgi.input"].read()
+            request_body = raw_bytes.decode("utf-8") if raw_bytes else "{}"
+        except Exception:
+            request_body = "{}"
 
-            # Lazy import to keep cold starts fast
+        try:
+            req_data = json.loads(request_body) if request_body.strip() else {}
+            query = req_data.get("query", "").strip()
+
             from app.orchestrator import ask
             result = ask(query)
         except Exception as e:
