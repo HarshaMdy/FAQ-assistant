@@ -18,15 +18,19 @@ from app.template import HTML_TEMPLATE
 def app(environ, start_response):
     """
     Standard WSGI Application callable for Vercel Serverless Functions.
-    Zero-dependency startup for GET / to guarantee instant page rendering.
+    Handles any GET request with the web UI and any POST with the Q&A pipeline.
     """
     path = environ.get("PATH_INFO", "/")
     method = environ.get("REQUEST_METHOD", "GET")
 
-    # Normalize trailing slash
-    clean_path = path[:-1] if path.endswith("/") and len(path) > 1 else path
+    # Handle favicon
+    if "favicon.ico" in path:
+        status = "204 No Content"
+        start_response(status, [])
+        return [b""]
 
-    if method == "GET" and (clean_path == "" or clean_path == "/"):
+    # All GET requests serve the interactive Chat UI
+    if method == "GET":
         body = HTML_TEMPLATE.encode("utf-8")
         status = "200 OK"
         response_headers = [
@@ -36,7 +40,8 @@ def app(environ, start_response):
         start_response(status, response_headers)
         return [body]
 
-    elif method == "POST" and clean_path == "/api/ask":
+    # POST requests handle Q&A queries
+    if method == "POST":
         try:
             content_length = int(environ.get("CONTENT_LENGTH", 0))
         except (ValueError, TypeError):
@@ -46,8 +51,8 @@ def app(environ, start_response):
         try:
             req_data = json.loads(request_body)
             query = req_data.get("query", "")
-            
-            # Lazy import to keep cold-start page loads lightweight
+
+            # Lazy import to keep cold starts fast
             from app.orchestrator import ask
             result = ask(query)
         except Exception as e:
@@ -68,19 +73,10 @@ def app(environ, start_response):
         start_response(status, response_headers)
         return [body]
 
-    elif method == "GET" and clean_path == "/favicon.ico":
-        status = "204 No Content"
-        start_response(status, [])
-        return [b""]
-
-    else:
-        status = "404 Not Found"
-        response_headers = [
-            ("Content-Type", "text/plain"),
-            ("Content-Length", "9"),
-        ]
-        start_response(status, response_headers)
-        return [b"Not Found"]
+    status = "405 Method Not Allowed"
+    response_headers = [("Content-Type", "text/plain")]
+    start_response(status, response_headers)
+    return [b"Method Not Allowed"]
 
 application = app
 
