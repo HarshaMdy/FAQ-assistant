@@ -1,5 +1,5 @@
 # app/template.py
-HTML_TEMPLATE = """<!DOCTYPE html>
+HTML_TEMPLATE = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -36,12 +36,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     .source-link:hover { text-decoration: underline; }
     .updated-time { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
     .pills-container { padding: 10px 0; display: flex; flex-wrap: wrap; gap: 8px; }
-    .pill { background: var(--card-bg); border: 1px solid var(--border); border-radius: 20px; padding: 6px 14px; font-size: 12.5px; color: #334155; cursor: pointer; transition: all 0.2s; }
+    .pill { background: var(--card-bg); border: 1px solid var(--border); border-radius: 20px; padding: 6px 14px; font-size: 12.5px; color: #334155; cursor: pointer; transition: all 0.2s; user-select: none; }
     .pill:hover { border-color: var(--primary); color: var(--primary-dark); background: #f0fdf9; }
     .input-row { display: flex; gap: 10px; background: var(--card-bg); padding: 12px; border-radius: 12px; border: 1px solid var(--border); }
     input[type="text"] { flex: 1; border: none; outline: none; font-size: 14.5px; padding: 6px; }
     button.send-btn { background: var(--primary); color: white; border: none; border-radius: 8px; padding: 8px 18px; font-weight: 600; cursor: pointer; transition: background 0.2s; }
     button.send-btn:hover { background: var(--primary-dark); }
+    button.send-btn:disabled { background: #94a3b8; cursor: not-allowed; }
     button.clear-btn { background: transparent; border: 1px solid var(--border); color: var(--text-muted); border-radius: 8px; padding: 8px 14px; cursor: pointer; }
     button.clear-btn:hover { background: #f1f5f9; }
   </style>
@@ -72,97 +73,124 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <div class="pills-container">
       <span style="font-size: 12px; color: var(--text-muted); align-self: center;">Examples:</span>
-      <div class="pill" onclick="sendExample('What is the expense ratio of HDFC Large Cap Fund?')">Expense ratio of HDFC Large Cap</div>
-      <div class="pill" onclick="sendExample('What is the lock-in period for HDFC ELSS Tax Saver Fund?')">ELSS lock-in period</div>
-      <div class="pill" onclick="sendExample('What is the minimum SIP for HDFC Mid Cap Fund?')">Minimum SIP for HDFC Mid Cap</div>
-      <div class="pill" onclick="sendExample('What is the exit load for HDFC Flexi Cap Fund?')">Exit load of HDFC Flexi Cap</div>
-      <div class="pill" onclick="sendExample('Should I invest in HDFC Large Cap?')">Should I invest? (Test Refusal)</div>
+      <div class="pill" data-query="What is the expense ratio of HDFC Large Cap Fund?">Expense ratio of HDFC Large Cap</div>
+      <div class="pill" data-query="What is the lock-in period for HDFC ELSS Tax Saver Fund?">ELSS lock-in period</div>
+      <div class="pill" data-query="What is the minimum SIP for HDFC Mid Cap Fund?">Minimum SIP for HDFC Mid Cap</div>
+      <div class="pill" data-query="What is the exit load for HDFC Flexi Cap Fund?">Exit load of HDFC Flexi Cap</div>
+      <div class="pill" data-query="Should I invest in HDFC Large Cap?">Should I invest? (Test Refusal)</div>
     </div>
 
     <div class="input-row">
-      <input type="text" id="userInput" placeholder="Ask a factual question (e.g. 'What is the exit load for HDFC Flexi Cap?')..." onkeydown="handleKey(event)" />
-      <button class="send-btn" id="sendBtn" onclick="submitQuery()">Ask</button>
-      <button class="clear-btn" onclick="clearChat()">Clear</button>
+      <input type="text" id="userInput" placeholder="Ask a factual question (e.g. 'What is the exit load for HDFC Flexi Cap?')..." autocomplete="off" />
+      <button class="send-btn" id="sendBtn">Ask</button>
+      <button class="clear-btn" id="clearBtn">Clear</button>
     </div>
   </div>
 
   <script>
-    const chatBox = document.getElementById('chatBox');
-    const userInput = document.getElementById('userInput');
-    const sendBtn = document.getElementById('sendBtn');
+    (function () {
+      var chatBox = document.getElementById('chatBox');
+      var userInput = document.getElementById('userInput');
+      var sendBtn = document.getElementById('sendBtn');
+      var clearBtn = document.getElementById('clearBtn');
 
-    function handleKey(e) {
-      if (e.key === 'Enter') submitQuery();
-    }
-
-    function sendExample(q) {
-      userInput.value = q;
-      submitQuery();
-    }
-
-    function appendMessage(text, sender, meta = {}) {
-      const msg = document.createElement('div');
-      msg.className = `message ${sender}-msg ${meta.refused ? 'refused' : ''}`;
-      
-      let html = String(text).split('\\n').join('<br>').split('\n').join('<br>');
-      if (meta.source_url) {
-        html += `<br><a class="source-link" href="${meta.source_url}" target="_blank" rel="noopener">Source: Official Groww Scheme Documentation ↗</a>`;
+      function formatText(raw) {
+        if (!raw) return '';
+        var safe = document.createElement('div');
+        safe.textContent = String(raw);
+        return safe.innerHTML.replace(/\r?\n/g, '<br>');
       }
-      if (meta.last_updated) {
-        html += `<div class="updated-time">Last Synced: ${meta.last_updated}</div>`;
+
+      function appendMessage(text, sender, meta) {
+        meta = meta || {};
+        var msg = document.createElement('div');
+        msg.className = 'message ' + sender + '-msg' + (meta.refused ? ' refused' : '');
+
+        var html = formatText(text);
+        if (meta.source_url) {
+          html += '<br><a class="source-link" href="' + meta.source_url + '" target="_blank" rel="noopener">Source: Official Groww Scheme Documentation ↗</a>';
+        }
+        if (meta.last_updated) {
+          html += '<div class="updated-time">Last Synced: ' + meta.last_updated + '</div>';
+        }
+        msg.innerHTML = html;
+        chatBox.appendChild(msg);
+        chatBox.scrollTop = chatBox.scrollHeight;
+        return msg;
       }
-      msg.innerHTML = html;
-      chatBox.appendChild(msg);
-      chatBox.scrollTop = chatBox.scrollHeight;
-      return msg;
-    }
 
-    async function submitQuery() {
-      const query = userInput.value.trim();
-      if (!query) return;
+      function submitQuery(overrideQuery) {
+        var query = (typeof overrideQuery === 'string' ? overrideQuery : userInput.value).trim();
+        if (!query) return;
 
-      appendMessage(query, 'user');
-      userInput.value = '';
-      userInput.disabled = true;
-      sendBtn.disabled = true;
+        appendMessage(query, 'user');
+        userInput.value = '';
+        userInput.disabled = true;
+        sendBtn.disabled = true;
 
-      const loadingMsg = appendMessage('Searching official records...', 'bot');
-      loadingMsg.id = 'loadingIndicator';
+        var loadingMsg = appendMessage('Searching official records...', 'bot');
+        loadingMsg.id = 'loadingIndicator';
 
-      try {
-        const res = await fetch('/api/ask', {
+        fetch('/api/ask', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ query: query })
-        });
-        const data = await res.json();
-        
-        const indicator = document.getElementById('loadingIndicator');
-        if (indicator) indicator.remove();
+        })
+        .then(function (res) { return res.json(); })
+        .then(function (data) {
+          var indicator = document.getElementById('loadingIndicator');
+          if (indicator) indicator.remove();
 
-        appendMessage(data.answer || 'No response generated.', 'bot', {
-          refused: data.status === 'refused',
-          source_url: data.source_url,
-          last_updated: data.last_updated
+          appendMessage(data.answer || 'No response generated.', 'bot', {
+            refused: data.status === 'refused',
+            source_url: data.source_url,
+            last_updated: data.last_updated
+          });
+        })
+        .catch(function (err) {
+          var indicator = document.getElementById('loadingIndicator');
+          if (indicator) indicator.remove();
+          appendMessage('Error retrieving answer: ' + err.message, 'bot', { refused: true });
+        })
+        .finally(function () {
+          userInput.disabled = false;
+          sendBtn.disabled = false;
+          userInput.focus();
         });
-      } catch (err) {
-        const indicator = document.getElementById('loadingIndicator');
-        if (indicator) indicator.remove();
-        appendMessage('Error retrieving answer: ' + err.message, 'bot', { refused: true });
-      } finally {
-        userInput.disabled = false;
-        sendBtn.disabled = false;
-        userInput.focus();
       }
-    }
 
-    function clearChat() {
-      chatBox.innerHTML = `
-        <div class="message bot-msg">
-          👋 <strong>Welcome!</strong> Chat cleared. How can I assist you with HDFC scheme factual data?
-        </div>
-      `;
-    }
+      // Event listeners
+      userInput.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          submitQuery();
+        }
+      });
+
+      sendBtn.addEventListener('click', function (e) {
+        e.preventDefault();
+        submitQuery();
+      });
+
+      clearBtn.addEventListener('click', function () {
+        chatBox.innerHTML = '<div class="message bot-msg">👋 <strong>Welcome!</strong> Chat cleared. How can I assist you with HDFC scheme factual data?</div>';
+        userInput.focus();
+      });
+
+      // Delegate pill clicks
+      var pills = document.querySelectorAll('.pill');
+      pills.forEach(function (pill) {
+        pill.addEventListener('click', function () {
+          var q = this.getAttribute('data-query');
+          if (q) {
+            userInput.value = q;
+            submitQuery(q);
+          }
+        });
+      });
+
+      userInput.focus();
+    })();
   </script>
 </body>
 </html>
