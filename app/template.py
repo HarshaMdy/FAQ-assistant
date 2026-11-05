@@ -4,7 +4,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HDFC Mutual Fund FAQ Assistant • Groww Style</title>
+  <title>Groww • HDFC Mutual Fund FAQ Assistant</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -550,7 +550,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     <div class="brand-group">
       <div class="brand-logo">G</div>
       <div class="brand-info">
-        <h1>HDFC Mutual Fund FAQ Assistant</h1>
+        <h1>Groww • HDFC Mutual Fund FAQ Assistant</h1>
         <p>Grounded Scheme Intelligence</p>
       </div>
     </div>
@@ -574,7 +574,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <!-- Welcome Message Card -->
       <div class="welcome-card">
         <h2>
-          <span>👋</span> Welcome to HDFC Mutual Fund Assistant
+          <span>👋</span> Welcome to Groww HDFC Mutual Fund Assistant
         </h2>
         <p>
           I provide strict, fact-grounded answers about HDFC mutual fund direct plans based on official Groww scheme documentation.
